@@ -1,0 +1,560 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 9143.032195,
+        "digital": "2:32:23",
+        "decimal": "2.53",
+        "text": "2 hrs 32 mins",
+        "hours": 2,
+        "minutes": 32,
+        "seconds": 23,
+        "percent": 34.71
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 6529.889123,
+        "digital": "1:48:49",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 49,
+        "percent": 24.79
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 5802.034527,
+        "digital": "1:36:42",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 42,
+        "percent": 22.02
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 3638.174782,
+        "digital": "1:00:38",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 38,
+        "percent": 13.81
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 1165.405478,
+        "digital": "0:19:25",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 25,
+        "percent": 4.42
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 65.60868,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 0.25
+      }
+    ],
+    "grand_total": {
+      "hours": 7,
+      "minutes": 19,
+      "total_seconds": 26344.144785,
+      "digital": "7:19",
+      "decimal": "7.32",
+      "text": "7 hrs 19 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 15238.952632,
+        "digital": "4:13:58",
+        "decimal": "4.22",
+        "text": "4 hrs 13 mins",
+        "hours": 4,
+        "minutes": 13,
+        "seconds": 58,
+        "percent": 57.85
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 11105.192153,
+        "digital": "3:05:05",
+        "decimal": "3.08",
+        "text": "3 hrs 5 mins",
+        "hours": 3,
+        "minutes": 5,
+        "seconds": 5,
+        "percent": 42.15
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 26344.144785,
+        "digital": "7:19:04",
+        "decimal": "7.32",
+        "text": "7 hrs 19 mins",
+        "hours": 7,
+        "minutes": 19,
+        "seconds": 4,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 15238.952632,
+        "digital": "4:13:58",
+        "decimal": "4.22",
+        "text": "4 hrs 13 mins",
+        "hours": 4,
+        "minutes": 13,
+        "seconds": 58,
+        "percent": 57.85
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 11105.192153,
+        "digital": "3:05:05",
+        "decimal": "3.08",
+        "text": "3 hrs 5 mins",
+        "hours": 3,
+        "minutes": 5,
+        "seconds": 5,
+        "percent": 42.15
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"/src/main.tsx\"",
+        "total_seconds": 50.528478,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 50.0
+      },
+      {
+        "name": "\"https://umami.yumdeb.top/script.js\"",
+        "total_seconds": 50.528478,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 50.0
+      }
+    ],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 15238.952632,
+        "machine_name_id": "64c2086f-4759-4e1e-bc03-2c0fd3073899",
+        "digital": "4:13:58",
+        "decimal": "4.22",
+        "text": "4 hrs 13 mins",
+        "hours": 4,
+        "minutes": 13,
+        "seconds": 58,
+        "percent": 57.85
+      },
+      {
+        "name": "DESKTOP-E1LG6LM",
+        "total_seconds": 11097.540481,
+        "machine_name_id": "fa902b8c-b65a-4978-9592-08c8c90cd96e",
+        "digital": "3:04:57",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "hours": 3,
+        "minutes": 4,
+        "seconds": 57,
+        "percent": 42.13
+      },
+      {
+        "name": "LAPTOP-BCHIE5BN",
+        "total_seconds": 7.651672,
+        "machine_name_id": "18f7f4aa-0d80-4a02-8b00-80a421c9d9b9",
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.03
+      }
+    ],
+    "projects": [
+      {
+        "name": "NaiHeeeee",
+        "total_seconds": 17308.12827,
+        "color": null,
+        "digital": "4:48:28",
+        "decimal": "4.80",
+        "text": "4 hrs 48 mins",
+        "hours": 4,
+        "minutes": 48,
+        "seconds": 28,
+        "percent": 65.7
+      },
+      {
+        "name": "wakatime-cli",
+        "total_seconds": 2152.869534,
+        "color": null,
+        "digital": "0:35:52",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 52,
+        "percent": 8.17
+      },
+      {
+        "name": "wakatime-sync",
+        "total_seconds": 1193.835497,
+        "color": null,
+        "digital": "0:19:53",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 53,
+        "percent": 4.53
+      },
+      {
+        "name": "liununu",
+        "total_seconds": 853.269301,
+        "color": null,
+        "digital": "0:14:13",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 13,
+        "percent": 3.24
+      },
+      {
+        "name": "wakatime-dashboard",
+        "total_seconds": 715.181,
+        "color": null,
+        "digital": "0:11:55",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 55,
+        "percent": 2.71
+      },
+      {
+        "name": "waka-readme",
+        "total_seconds": 670.441413,
+        "color": null,
+        "digital": "0:11:10",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 10,
+        "percent": 2.54
+      },
+      {
+        "name": "Blog",
+        "total_seconds": 661.606477,
+        "color": null,
+        "digital": "0:11:01",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 1,
+        "percent": 2.51
+      },
+      {
+        "name": "WakaWaka",
+        "total_seconds": 529.671522,
+        "color": null,
+        "digital": "0:08:49",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 49,
+        "percent": 2.01
+      },
+      {
+        "name": "Year progress",
+        "total_seconds": 471.380932,
+        "color": null,
+        "digital": "0:07:51",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 51,
+        "percent": 1.79
+      },
+      {
+        "name": "wakatime-action-sync",
+        "total_seconds": 395.018,
+        "color": null,
+        "digital": "0:06:35",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 35,
+        "percent": 1.5
+      },
+      {
+        "name": "wakatime-action-sync-private",
+        "total_seconds": 365.382,
+        "color": null,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 1.39
+      },
+      {
+        "name": "waka-readme-stats",
+        "total_seconds": 281.357636,
+        "color": null,
+        "digital": "0:04:41",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 41,
+        "percent": 1.07
+      },
+      {
+        "name": "xlz122",
+        "total_seconds": 198.034124,
+        "color": null,
+        "digital": "0:03:18",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 18,
+        "percent": 0.75
+      },
+      {
+        "name": "maple-font",
+        "total_seconds": 163.519328,
+        "color": null,
+        "digital": "0:02:43",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 43,
+        "percent": 0.62
+      },
+      {
+        "name": "wakatime-dashboard-pro",
+        "total_seconds": 105.204,
+        "color": null,
+        "digital": "0:01:45",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 45,
+        "percent": 0.4
+      },
+      {
+        "name": "github-readme-stats",
+        "total_seconds": 66.505,
+        "color": null,
+        "digital": "0:01:06",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 6,
+        "percent": 0.25
+      },
+      {
+        "name": "wakatime-dashboard-react",
+        "total_seconds": 50.528478,
+        "color": null,
+        "digital": "0:00:50",
+        "decimal": "0.00",
+        "text": "50 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 50,
+        "percent": 0.19
+      },
+      {
+        "name": "XiaoYuer2022",
+        "total_seconds": 49.037273,
+        "color": null,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 0.19
+      },
+      {
+        "name": "hakatime",
+        "total_seconds": 25.676,
+        "color": null,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 0.1
+      },
+      {
+        "name": "Tai",
+        "total_seconds": 17.861,
+        "color": null,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.07
+      },
+      {
+        "name": "waka-box",
+        "total_seconds": 16.37,
+        "color": null,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.06
+      },
+      {
+        "name": "NaiHeeeee.github.io",
+        "total_seconds": 9.866,
+        "color": null,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.04
+      },
+      {
+        "name": "EclipsoG",
+        "total_seconds": 8.866,
+        "color": null,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.03
+      },
+      {
+        "name": "athul",
+        "total_seconds": 7.322,
+        "color": null,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.03
+      },
+      {
+        "name": "AL33H",
+        "total_seconds": 7.199,
+        "color": null,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.03
+      },
+      {
+        "name": "MafraLP",
+        "total_seconds": 5.856,
+        "color": null,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "Lucasvmarangoni",
+        "total_seconds": 5.782,
+        "color": null,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.02
+      },
+      {
+        "name": "ltzj-nem",
+        "total_seconds": 4.999,
+        "color": null,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.02
+      },
+      {
+        "name": "setup-node",
+        "total_seconds": 3.378,
+        "color": null,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.01
+      }
+    ],
+    "range": {
+      "start": "2025-04-09T16:00:00Z",
+      "end": "2025-04-10T15:59:59Z",
+      "date": "2025-04-10",
+      "text": "Thu Apr 10th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
