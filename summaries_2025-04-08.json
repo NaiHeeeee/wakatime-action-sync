@@ -1,0 +1,122 @@
+[
+  {
+    "languages": [
+      {
+        "name": "YAML",
+        "total_seconds": 887.241516,
+        "digital": "0:14:47",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 47,
+        "percent": 60.14
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 588.071915,
+        "digital": "0:09:48",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 48,
+        "percent": 39.86
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 24,
+      "total_seconds": 1475.313431,
+      "digital": "0:24",
+      "decimal": "0.40",
+      "text": "24 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1475.313431,
+        "digital": "0:24:35",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 35,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1475.313431,
+        "digital": "0:24:35",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 35,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1475.313431,
+        "digital": "0:24:35",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 35,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-E1LG6LM",
+        "total_seconds": 1475.313431,
+        "machine_name_id": "fa902b8c-b65a-4978-9592-08c8c90cd96e",
+        "digital": "0:24:35",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 35,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "NaiHeeeee",
+        "total_seconds": 1475.313431,
+        "color": null,
+        "digital": "0:24:35",
+        "decimal": "0.40",
+        "text": "24 mins",
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 35,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-04-07T16:00:00Z",
+      "end": "2025-04-08T15:59:59Z",
+      "date": "2025-04-08",
+      "text": "Tue Apr 8th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
