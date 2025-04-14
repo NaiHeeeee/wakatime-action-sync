@@ -1,0 +1,122 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 7990.332,
+        "digital": "2:13:10",
+        "decimal": "2.22",
+        "text": "2 hrs 13 mins",
+        "hours": 2,
+        "minutes": 13,
+        "seconds": 10,
+        "percent": 75.69
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1637.195,
+        "digital": "0:27:17",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 17,
+        "percent": 15.51
+      },
+      {
+        "name": "Other",
+        "total_seconds": 929.049,
+        "digital": "0:15:29",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 29,
+        "percent": 8.8
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 55,
+      "total_seconds": 10556.576,
+      "digital": "2:55",
+      "decimal": "2.92",
+      "text": "2 hrs 55 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 10556.576,
+        "digital": "2:55:56",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 56,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 10556.576,
+        "digital": "2:55:56",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 56,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 10556.576,
+        "digital": "2:55:56",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 56,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Unknown Hostname",
+        "total_seconds": 10556.576,
+        "machine_name_id": "1a68f509-bd10-4521-a0a7-93228de985aa",
+        "digital": "2:55:56",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 56,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 10556.576,
+        "color": null,
+        "digital": "2:55:56",
+        "decimal": "2.92",
+        "text": "2 hrs 55 mins",
+        "hours": 2,
+        "minutes": 55,
+        "seconds": 56,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-04-11T16:00:00Z",
+      "end": "2025-04-12T15:59:59Z",
+      "date": "2025-04-12",
+      "text": "Sat Apr 12th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
