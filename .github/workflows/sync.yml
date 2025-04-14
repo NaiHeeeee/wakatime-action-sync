@@ -3,7 +3,7 @@ name: Update gist with WakaTime summary
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 16 * * *'
+    - cron: '30 20 * * *'
 
 env:
   TZ: Asia/Shanghai # 时区
