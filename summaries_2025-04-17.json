@@ -1,0 +1,375 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 18340.225345,
+        "digital": "5:05:40",
+        "decimal": "5.08",
+        "text": "5 hrs 5 mins",
+        "hours": 5,
+        "minutes": 5,
+        "seconds": 40,
+        "percent": 71.45
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 5153.308476,
+        "digital": "1:25:53",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 53,
+        "percent": 20.08
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1879.619201,
+        "digital": "0:31:19",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 19,
+        "percent": 7.32
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 175.957106,
+        "digital": "0:02:55",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 55,
+        "percent": 0.69
+      },
+      {
+        "name": "Go",
+        "total_seconds": 83.426,
+        "digital": "0:01:23",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 23,
+        "percent": 0.33
+      },
+      {
+        "name": "Pug",
+        "total_seconds": 36.261835,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.14
+      }
+    ],
+    "grand_total": {
+      "hours": 7,
+      "minutes": 7,
+      "total_seconds": 25668.797963,
+      "digital": "7:07",
+      "decimal": "7.12",
+      "text": "7 hrs 7 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 19788.384124,
+        "digital": "5:29:48",
+        "decimal": "5.48",
+        "text": "5 hrs 29 mins",
+        "hours": 5,
+        "minutes": 29,
+        "seconds": 48,
+        "percent": 77.09
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 5880.413839,
+        "digital": "1:38:00",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 0,
+        "percent": 22.91
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Unknown OS",
+        "total_seconds": 19576.165183,
+        "digital": "5:26:16",
+        "decimal": "5.43",
+        "text": "5 hrs 26 mins",
+        "hours": 5,
+        "minutes": 26,
+        "seconds": 16,
+        "percent": 76.26
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 6092.63278,
+        "digital": "1:41:32",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 32,
+        "percent": 23.74
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 7440.915277,
+        "digital": "2:04:00",
+        "decimal": "2.07",
+        "text": "2 hrs 4 mins",
+        "hours": 2,
+        "minutes": 4,
+        "seconds": 0,
+        "percent": 28.99
+      },
+      {
+        "name": "Writing Tests",
+        "total_seconds": 1708.809724,
+        "digital": "0:28:28",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 28,
+        "percent": 6.66
+      },
+      {
+        "name": "Writing Docs",
+        "total_seconds": 1675.079518,
+        "digital": "0:27:55",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 55,
+        "percent": 6.53
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 1629.707124,
+        "digital": "0:27:09",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 9,
+        "percent": 6.35
+      },
+      {
+        "name": "Code Reviewing",
+        "total_seconds": 1614.658212,
+        "digital": "0:26:54",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 54,
+        "percent": 6.29
+      },
+      {
+        "name": "Manual Testing",
+        "total_seconds": 1591.224037,
+        "digital": "0:26:31",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 31,
+        "percent": 6.2
+      },
+      {
+        "name": "Running Tests",
+        "total_seconds": 1555.195354,
+        "digital": "0:25:55",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 55,
+        "percent": 6.06
+      },
+      {
+        "name": "Debugging",
+        "total_seconds": 1314.328422,
+        "digital": "0:21:54",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 54,
+        "percent": 5.12
+      },
+      {
+        "name": "Indexing",
+        "total_seconds": 1305.50277,
+        "digital": "0:21:45",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 45,
+        "percent": 5.09
+      },
+      {
+        "name": "Learning",
+        "total_seconds": 1294.049102,
+        "digital": "0:21:34",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 34,
+        "percent": 5.04
+      },
+      {
+        "name": "Building",
+        "total_seconds": 1227.257881,
+        "digital": "0:20:27",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 27,
+        "percent": 4.78
+      },
+      {
+        "name": "Researching",
+        "total_seconds": 1224.987607,
+        "digital": "0:20:24",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 24,
+        "percent": 4.77
+      },
+      {
+        "name": "Designing",
+        "total_seconds": 1079.378191,
+        "digital": "0:17:59",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 59,
+        "percent": 4.21
+      },
+      {
+        "name": "Communicating",
+        "total_seconds": 1007.704744,
+        "digital": "0:16:47",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 47,
+        "percent": 3.93
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "LAPTOP-BCHIE5BN",
+        "total_seconds": 19788.384124,
+        "machine_name_id": "9a3e87db-7130-4637-9692-bfb01d9e19fa",
+        "digital": "5:29:48",
+        "decimal": "5.48",
+        "text": "5 hrs 29 mins",
+        "hours": 5,
+        "minutes": 29,
+        "seconds": 48,
+        "percent": 77.09
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 5880.413839,
+        "machine_name_id": "60c4ed00-f9e9-4dc7-8c7e-33b56b5909a1",
+        "digital": "1:38:00",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 0,
+        "percent": 22.91
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blog",
+        "total_seconds": 8111.492885,
+        "digital": "2:15:11",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 11,
+        "percent": 31.6
+      },
+      {
+        "name": "genshin-card",
+        "total_seconds": 7961.230135,
+        "digital": "2:12:41",
+        "decimal": "2.20",
+        "text": "2 hrs 12 mins",
+        "hours": 2,
+        "minutes": 12,
+        "seconds": 41,
+        "percent": 31.02
+      },
+      {
+        "name": "Github",
+        "total_seconds": 5880.413839,
+        "digital": "1:38:00",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 0,
+        "percent": 22.91
+      },
+      {
+        "name": "NaiHeeeee",
+        "total_seconds": 3539.703998,
+        "digital": "0:58:59",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 59,
+        "percent": 13.79
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 175.957106,
+        "digital": "0:02:55",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 55,
+        "percent": 0.69
+      }
+    ],
+    "range": {
+      "start": "2025-04-16T16:00:00Z",
+      "end": "2025-04-17T15:59:59Z",
+      "date": "2025-04-17",
+      "text": "Thu Apr 17th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
