@@ -1,0 +1,166 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 24773.54332,
+        "digital": "6:52:53",
+        "decimal": "6.87",
+        "text": "6 hrs 52 mins",
+        "hours": 6,
+        "minutes": 52,
+        "seconds": 53,
+        "percent": 97.82
+      },
+      {
+        "name": "Other",
+        "total_seconds": 552.033188,
+        "digital": "0:09:12",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 12,
+        "percent": 2.18
+      }
+    ],
+    "grand_total": {
+      "hours": 7,
+      "minutes": 2,
+      "total_seconds": 25325.576508,
+      "digital": "7:02",
+      "decimal": "7.03",
+      "text": "7 hrs 2 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 24672.317086,
+        "digital": "6:51:12",
+        "decimal": "6.85",
+        "text": "6 hrs 51 mins",
+        "hours": 6,
+        "minutes": 51,
+        "seconds": 12,
+        "percent": 97.42
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 653.259422,
+        "digital": "0:10:53",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 53,
+        "percent": 2.58
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Unknown OS",
+        "total_seconds": 24672.317086,
+        "digital": "6:51:12",
+        "decimal": "6.85",
+        "text": "6 hrs 51 mins",
+        "hours": 6,
+        "minutes": 51,
+        "seconds": 12,
+        "percent": 97.42
+      },
+      {
+        "name": "Windows",
+        "total_seconds": 653.259422,
+        "digital": "0:10:53",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 53,
+        "percent": 2.58
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 24672.317086,
+        "digital": "6:51:12",
+        "decimal": "6.85",
+        "text": "6 hrs 51 mins",
+        "hours": 6,
+        "minutes": 51,
+        "seconds": 12,
+        "percent": 97.42
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 653.259422,
+        "digital": "0:10:53",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 53,
+        "percent": 2.58
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "LAPTOP-BCHIE5BN",
+        "total_seconds": 24672.317086,
+        "machine_name_id": "9a3e87db-7130-4637-9692-bfb01d9e19fa",
+        "digital": "6:51:12",
+        "decimal": "6.85",
+        "text": "6 hrs 51 mins",
+        "hours": 6,
+        "minutes": 51,
+        "seconds": 12,
+        "percent": 97.42
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 653.259422,
+        "machine_name_id": "60c4ed00-f9e9-4dc7-8c7e-33b56b5909a1",
+        "digital": "0:10:53",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 53,
+        "percent": 2.58
+      }
+    ],
+    "projects": [
+      {
+        "name": "Blog",
+        "total_seconds": 24672.317086,
+        "digital": "6:51:12",
+        "decimal": "6.85",
+        "text": "6 hrs 51 mins",
+        "hours": 6,
+        "minutes": 51,
+        "seconds": 12,
+        "percent": 97.42
+      },
+      {
+        "name": "Github",
+        "total_seconds": 653.259422,
+        "digital": "0:10:53",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 53,
+        "percent": 2.58
+      }
+    ],
+    "range": {
+      "start": "2025-04-23T16:00:00Z",
+      "end": "2025-04-24T15:59:59Z",
+      "date": "2025-04-24",
+      "text": "Thu Apr 24th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
