@@ -1,0 +1,121 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Python",
+        "total_seconds": 709.248,
+        "digital": "0:11:49",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 49,
+        "percent": 79.52
+      },
+      {
+        "name": "Other",
+        "total_seconds": 166.365,
+        "digital": "0:02:46",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 18.65
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 16.324,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 1.83
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 14,
+      "total_seconds": 891.937,
+      "digital": "0:14",
+      "decimal": "0.23",
+      "text": "14 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 891.937,
+        "digital": "0:14:51",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 51,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 891.937,
+        "digital": "0:14:51",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 51,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 891.937,
+        "digital": "0:14:51",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 51,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 891.937,
+        "machine_name_id": "17ba4766-c006-488c-b769-b0b5333d003b",
+        "digital": "0:14:51",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 51,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 891.937,
+        "digital": "0:14:51",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 51,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-05-04T16:00:00Z",
+      "end": "2025-05-05T15:59:59Z",
+      "date": "2025-05-05",
+      "text": "Mon May 5th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
