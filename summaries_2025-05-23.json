@@ -1,0 +1,110 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Python",
+        "total_seconds": 400.559,
+        "digital": "0:06:40",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 40,
+        "percent": 90.98
+      },
+      {
+        "name": "Other",
+        "total_seconds": 39.692,
+        "digital": "0:00:39",
+        "decimal": "0.00",
+        "text": "39 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 39,
+        "percent": 9.02
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 7,
+      "total_seconds": 440.251,
+      "digital": "0:07",
+      "decimal": "0.12",
+      "text": "7 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 440.251,
+        "digital": "0:07:20",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 20,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 440.251,
+        "digital": "0:07:20",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 20,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 440.251,
+        "digital": "0:07:20",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 20,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 440.251,
+        "machine_name_id": "75a2b0b8-b158-4fae-931d-c01dcd07bd92",
+        "digital": "0:07:20",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 20,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 440.251,
+        "digital": "0:07:20",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 20,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-05-22T16:00:00Z",
+      "end": "2025-05-23T15:59:59Z",
+      "date": "2025-05-23",
+      "text": "Fri May 23rd 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
