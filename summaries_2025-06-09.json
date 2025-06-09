@@ -1,0 +1,321 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 12906.027128,
+        "digital": "3:35:06",
+        "decimal": "3.58",
+        "text": "3 hrs 35 mins",
+        "hours": 3,
+        "minutes": 35,
+        "seconds": 6,
+        "percent": 83.0
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1828.962619,
+        "digital": "0:30:28",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 28,
+        "percent": 11.76
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 785.166298,
+        "digital": "0:13:05",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 5,
+        "percent": 5.05
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 28.627366,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.18
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 19,
+      "total_seconds": 15548.783411,
+      "digital": "4:19",
+      "decimal": "4.32",
+      "text": "4 hrs 19 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 9911.586523,
+        "digital": "2:45:11",
+        "decimal": "2.75",
+        "text": "2 hrs 45 mins",
+        "hours": 2,
+        "minutes": 45,
+        "seconds": 11,
+        "percent": 63.75
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 5637.196888,
+        "digital": "1:33:57",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 57,
+        "percent": 36.25
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 15548.783411,
+        "digital": "4:19:08",
+        "decimal": "4.32",
+        "text": "4 hrs 19 mins",
+        "hours": 4,
+        "minutes": 19,
+        "seconds": 8,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9911.586523,
+        "digital": "2:45:11",
+        "decimal": "2.75",
+        "text": "2 hrs 45 mins",
+        "hours": 2,
+        "minutes": 45,
+        "seconds": 11,
+        "percent": 63.75
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 5637.196888,
+        "digital": "1:33:57",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 57,
+        "percent": 36.25
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./_next/static/chunks/472-966b4151735f851c.js\"",
+        "total_seconds": 26.634386,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 13.99
+      },
+      {
+        "name": "\"./_next/static/chunks/614-c5c7640eed2b5b5e.js\"",
+        "total_seconds": 26.634386,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 13.99
+      },
+      {
+        "name": "\"./_next/static/chunks/polyfills-c67a75d1b6f99dc8.js\"",
+        "total_seconds": 26.634386,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 13.99
+      },
+      {
+        "name": "\"./_next/static/chunks/main-app-425f8630ea203b0c.js\"",
+        "total_seconds": 26.634386,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 13.99
+      },
+      {
+        "name": "\"./_next/static/chunks/webpack-bac341886c3732f8.js\"",
+        "total_seconds": 26.634386,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 13.99
+      },
+      {
+        "name": "\"./_next/static/chunks/app/wpengine/page-b41666a4a242d054.js\"",
+        "total_seconds": 26.634386,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 13.99
+      },
+      {
+        "name": "\"./_next/static/chunks/fd9d1056-ce1fd67116304840.js\"",
+        "total_seconds": 26.634386,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 13.99
+      },
+      {
+        "name": "\"lib/spine-webgl.js\"",
+        "total_seconds": 1.99298,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 1.05
+      },
+      {
+        "name": "\"js/main.js\"",
+        "total_seconds": 1.99298,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 1.05
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 9911.586523,
+        "machine_name_id": "5f52d23b-274b-4d11-892a-dd7048455c64",
+        "digital": "2:45:11",
+        "decimal": "2.75",
+        "text": "2 hrs 45 mins",
+        "hours": 2,
+        "minutes": 45,
+        "seconds": 11,
+        "percent": 63.75
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 5637.196888,
+        "machine_name_id": "75a2b0b8-b158-4fae-931d-c01dcd07bd92",
+        "digital": "1:33:57",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 57,
+        "percent": 36.25
+      }
+    ],
+    "projects": [
+      {
+        "name": "index8",
+        "total_seconds": 8374.56025,
+        "digital": "2:19:34",
+        "decimal": "2.32",
+        "text": "2 hrs 19 mins",
+        "hours": 2,
+        "minutes": 19,
+        "seconds": 34,
+        "percent": 53.86
+      },
+      {
+        "name": "Github",
+        "total_seconds": 5637.196888,
+        "digital": "1:33:57",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 57,
+        "percent": 36.25
+      },
+      {
+        "name": "Blue Archive（模板）",
+        "total_seconds": 756.315924,
+        "digital": "0:12:36",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 36,
+        "percent": 4.86
+      },
+      {
+        "name": "airi0_home",
+        "total_seconds": 644.867254,
+        "digital": "0:10:44",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 44,
+        "percent": 4.15
+      },
+      {
+        "name": "azusa_home",
+        "total_seconds": 91.153506,
+        "digital": "0:01:31",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 31,
+        "percent": 0.59
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 44.689589,
+        "digital": "0:00:44",
+        "decimal": "0.00",
+        "text": "44 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 44,
+        "percent": 0.29
+      }
+    ],
+    "range": {
+      "start": "2025-06-08T16:00:00Z",
+      "end": "2025-06-09T15:59:59Z",
+      "date": "2025-06-09",
+      "text": "Mon Jun 9th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
