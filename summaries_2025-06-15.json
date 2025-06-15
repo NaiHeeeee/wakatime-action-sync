@@ -1,0 +1,211 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1206.57672,
+        "digital": "0:20:06",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 6,
+        "percent": 64.9
+      },
+      {
+        "name": "Other",
+        "total_seconds": 650.114,
+        "digital": "0:10:50",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 50,
+        "percent": 34.97
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 2.581654,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.14
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 30,
+      "total_seconds": 1859.272374,
+      "digital": "0:30",
+      "decimal": "0.50",
+      "text": "30 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1204.174374,
+        "digital": "0:20:04",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 4,
+        "percent": 64.77
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 655.098,
+        "digital": "0:10:55",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 55,
+        "percent": 35.23
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1859.272374,
+        "digital": "0:30:59",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 59,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1204.174374,
+        "digital": "0:20:04",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 4,
+        "percent": 64.77
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 655.098,
+        "digital": "0:10:55",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 55,
+        "percent": 35.23
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"js/main.js\"",
+        "total_seconds": 2.581654,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 50.0
+      },
+      {
+        "name": "\"lib/spine-webgl.js\"",
+        "total_seconds": 2.581654,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 50.0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 1204.174374,
+        "machine_name_id": "53f73f20-be7b-40ab-baa4-67c71d27dfda",
+        "digital": "0:20:04",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 4,
+        "percent": 64.77
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 655.098,
+        "machine_name_id": "39632f3f-8056-4831-a63f-8b622a11e39b",
+        "digital": "0:10:55",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 55,
+        "percent": 35.23
+      }
+    ],
+    "projects": [
+      {
+        "name": "index20",
+        "total_seconds": 1133.889033,
+        "digital": "0:18:53",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 53,
+        "percent": 60.99
+      },
+      {
+        "name": "Github",
+        "total_seconds": 655.098,
+        "digital": "0:10:55",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 55,
+        "percent": 35.23
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 70.285341,
+        "digital": "0:01:10",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 10,
+        "percent": 3.78
+      }
+    ],
+    "range": {
+      "start": "2025-06-14T16:00:00Z",
+      "end": "2025-06-15T15:59:59Z",
+      "date": "2025-06-15",
+      "text": "Sun Jun 15th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
