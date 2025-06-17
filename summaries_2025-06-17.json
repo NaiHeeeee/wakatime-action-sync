@@ -1,0 +1,166 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1962.787,
+        "digital": "0:32:42",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 42,
+        "percent": 49.16
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1193.170925,
+        "digital": "0:19:53",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 53,
+        "percent": 29.89
+      },
+      {
+        "name": "Other",
+        "total_seconds": 836.567,
+        "digital": "0:13:56",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 56,
+        "percent": 20.95
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 6,
+      "total_seconds": 3992.524925,
+      "digital": "1:06",
+      "decimal": "1.10",
+      "text": "1 hr 6 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 3708.604,
+        "digital": "1:01:48",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 92.89
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 283.920925,
+        "digital": "0:04:43",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 43,
+        "percent": 7.11
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3992.524925,
+        "digital": "1:06:32",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 32,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 3708.604,
+        "digital": "1:01:48",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 92.89
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 283.920925,
+        "digital": "0:04:43",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 43,
+        "percent": 7.11
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 3708.604,
+        "machine_name_id": "7630e59b-451b-40f2-94a1-074726dfe4bb",
+        "digital": "1:01:48",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 92.89
+      },
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 283.920925,
+        "machine_name_id": "53f73f20-be7b-40ab-baa4-67c71d27dfda",
+        "digital": "0:04:43",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 43,
+        "percent": 7.11
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 3708.604,
+        "digital": "1:01:48",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 92.89
+      },
+      {
+        "name": "3484246124",
+        "total_seconds": 283.920925,
+        "digital": "0:04:43",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 43,
+        "percent": 7.11
+      }
+    ],
+    "range": {
+      "start": "2025-06-16T16:00:00Z",
+      "end": "2025-06-17T15:59:59Z",
+      "date": "2025-06-17",
+      "text": "Tue Jun 17th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
