@@ -1,0 +1,332 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 3764.618117,
+        "digital": "1:02:44",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 61.34
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1099.48665,
+        "digital": "0:18:19",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 19,
+        "percent": 17.92
+      },
+      {
+        "name": "Other",
+        "total_seconds": 955.055624,
+        "digital": "0:15:55",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 55,
+        "percent": 15.56
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 316.107045,
+        "digital": "0:05:16",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 16,
+        "percent": 5.15
+      },
+      {
+        "name": "Python",
+        "total_seconds": 1.602975,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.03
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 42,
+      "total_seconds": 6136.870411,
+      "digital": "1:42",
+      "decimal": "1.70",
+      "text": "1 hr 42 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4172.846014,
+        "digital": "1:09:32",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 32,
+        "percent": 68.0
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 1292.970357,
+        "digital": "0:21:32",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 32,
+        "percent": 21.07
+      },
+      {
+        "name": "Trae",
+        "total_seconds": 671.05404,
+        "digital": "0:11:11",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 11,
+        "percent": 10.93
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6136.870411,
+        "digital": "1:42:16",
+        "decimal": "1.70",
+        "text": "1 hr 42 mins",
+        "hours": 1,
+        "minutes": 42,
+        "seconds": 16,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4843.900054,
+        "digital": "1:20:43",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 43,
+        "percent": 78.93
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 1292.970357,
+        "digital": "0:21:32",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 32,
+        "percent": 21.07
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"js/main.js\"",
+        "total_seconds": 313.609432,
+        "digital": "0:05:13",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 13,
+        "percent": 49.12
+      },
+      {
+        "name": "\"lib/spine-webgl-4.2.js\"",
+        "total_seconds": 167.615493,
+        "digital": "0:02:47",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 47,
+        "percent": 26.25
+      },
+      {
+        "name": "\"lib/spine-webgl-3.8.js\"",
+        "total_seconds": 133.506424,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 20.91
+      },
+      {
+        "name": "\"lib/spine-webgl.js\"",
+        "total_seconds": 12.487515,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 1.96
+      },
+      {
+        "name": "\"https://code.jquery.com/jquery-3.1.0.min.js\"",
+        "total_seconds": 2.497613,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.39
+      },
+      {
+        "name": "\"../../build/spine-webgl.js\"",
+        "total_seconds": 2.497613,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.39
+      },
+      {
+        "name": "\"additiveblending.js\"",
+        "total_seconds": 2.497613,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.39
+      },
+      {
+        "name": "\"utils.js\"",
+        "total_seconds": 2.497613,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.39
+      },
+      {
+        "name": "re",
+        "total_seconds": 1.30122,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.2
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 4843.900054,
+        "machine_name_id": "53f73f20-be7b-40ab-baa4-67c71d27dfda",
+        "digital": "1:20:43",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20,
+        "seconds": 43,
+        "percent": 78.93
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 1292.970357,
+        "machine_name_id": "39632f3f-8056-4831-a63f-8b622a11e39b",
+        "digital": "0:21:32",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 32,
+        "percent": 21.07
+      }
+    ],
+    "projects": [
+      {
+        "name": "index21",
+        "total_seconds": 4424.750435,
+        "digital": "1:13:44",
+        "decimal": "1.22",
+        "text": "1 hr 13 mins",
+        "hours": 1,
+        "minutes": 13,
+        "seconds": 44,
+        "percent": 72.1
+      },
+      {
+        "name": "Github",
+        "total_seconds": 1292.970357,
+        "digital": "0:21:32",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 32,
+        "percent": 21.07
+      },
+      {
+        "name": "index8",
+        "total_seconds": 205.070109,
+        "digital": "0:03:25",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "percent": 3.34
+      },
+      {
+        "name": "Blue Archive（模板）",
+        "total_seconds": 181.135083,
+        "digital": "0:03:01",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 1,
+        "percent": 2.95
+      },
+      {
+        "name": "3392243898",
+        "total_seconds": 32.944427,
+        "digital": "0:00:32",
+        "decimal": "0.00",
+        "text": "32 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 32,
+        "percent": 0.54
+      }
+    ],
+    "range": {
+      "start": "2025-06-18T16:00:00Z",
+      "end": "2025-06-19T15:59:59Z",
+      "date": "2025-06-19",
+      "text": "Thu Jun 19th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
