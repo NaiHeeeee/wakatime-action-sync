@@ -1,0 +1,266 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 6414.305046,
+        "digital": "1:46:54",
+        "decimal": "1.77",
+        "text": "1 hr 46 mins",
+        "hours": 1,
+        "minutes": 46,
+        "seconds": 54,
+        "percent": 97.05
+      },
+      {
+        "name": "Other",
+        "total_seconds": 171.718456,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 2.6
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 23.506427,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.36
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 50,
+      "total_seconds": 6609.529929,
+      "digital": "1:50",
+      "decimal": "1.83",
+      "text": "1 hr 50 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 6437.811473,
+        "digital": "1:47:17",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 17,
+        "percent": 97.4
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 171.718456,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 2.6
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6609.529929,
+        "digital": "1:50:09",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 9,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6437.811473,
+        "digital": "1:47:17",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 17,
+        "percent": 97.4
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 171.718456,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 2.6
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"./init.js\"",
+        "total_seconds": 22.270575,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 68.01
+      },
+      {
+        "name": "pixi",
+        "total_seconds": 2.691747,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 8.22
+      },
+      {
+        "name": "spine-pixi",
+        "total_seconds": 1.774389,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 5.42
+      },
+      {
+        "name": "player_legacy",
+        "total_seconds": 1.28469,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 3.92
+      },
+      {
+        "name": "player",
+        "total_seconds": 1.28469,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 3.92
+      },
+      {
+        "name": "constants",
+        "total_seconds": 1.28469,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 3.92
+      },
+      {
+        "name": "\"bundle.js\"",
+        "total_seconds": 1.235852,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 3.77
+      },
+      {
+        "name": "pixi-spine",
+        "total_seconds": 0.917358,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 2.8
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 6437.811473,
+        "machine_name_id": "12e3327a-6e6c-4e51-9d80-5d4ea770d2f4",
+        "digital": "1:47:17",
+        "decimal": "1.78",
+        "text": "1 hr 47 mins",
+        "hours": 1,
+        "minutes": 47,
+        "seconds": 17,
+        "percent": 97.4
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 171.718456,
+        "machine_name_id": "c8905ef9-8e4e-4e09-93af-0756ea34d418",
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 2.6
+      }
+    ],
+    "projects": [
+      {
+        "name": "index22",
+        "total_seconds": 6066.073929,
+        "digital": "1:41:06",
+        "decimal": "1.68",
+        "text": "1 hr 41 mins",
+        "hours": 1,
+        "minutes": 41,
+        "seconds": 6,
+        "percent": 91.78
+      },
+      {
+        "name": "BA-Memory",
+        "total_seconds": 371.737544,
+        "digital": "0:06:11",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 11,
+        "percent": 5.62
+      },
+      {
+        "name": "Github",
+        "total_seconds": 171.718456,
+        "digital": "0:02:51",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "percent": 2.6
+      }
+    ],
+    "range": {
+      "start": "2025-06-19T16:00:00Z",
+      "end": "2025-06-20T15:59:59Z",
+      "date": "2025-06-20",
+      "text": "Fri Jun 20th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
