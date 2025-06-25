@@ -154,3 +154,5 @@ summaries_2025-06-22.json
 summaries_2025-06-23.json
 
 summaries_2025-06-24.json
+
+summaries_2025-06-25.json
