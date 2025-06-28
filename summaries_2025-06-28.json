@@ -1,0 +1,210 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 5115.455599,
+        "digital": "1:25:15",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 15,
+        "percent": 52.64
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 3202.341,
+        "digital": "0:53:22",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 22,
+        "percent": 32.95
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1116.512934,
+        "digital": "0:18:36",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 36,
+        "percent": 11.49
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 275.99097,
+        "digital": "0:04:35",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 35,
+        "percent": 2.84
+      },
+      {
+        "name": "Python",
+        "total_seconds": 5.673999,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.06
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1.834443,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 41,
+      "total_seconds": 9717.808945,
+      "digital": "2:41",
+      "decimal": "2.68",
+      "text": "2 hrs 41 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 5362.865635,
+        "digital": "1:29:22",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 22,
+        "percent": 55.19
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 4354.94331,
+        "digital": "1:12:34",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 34,
+        "percent": 44.81
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 9717.808945,
+        "digital": "2:41:57",
+        "decimal": "2.68",
+        "text": "2 hrs 41 mins",
+        "hours": 2,
+        "minutes": 41,
+        "seconds": 57,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 5362.865635,
+        "digital": "1:29:22",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 22,
+        "percent": 55.19
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 4354.94331,
+        "digital": "1:12:34",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 34,
+        "percent": 44.81
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 5362.865635,
+        "machine_name_id": "75a2b0b8-b158-4fae-931d-c01dcd07bd92",
+        "digital": "1:29:22",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 22,
+        "percent": 55.19
+      },
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 4354.94331,
+        "machine_name_id": "a3786f80-b6a4-4504-8f37-4e8c59da1a4e",
+        "digital": "1:12:34",
+        "decimal": "1.20",
+        "text": "1 hr 12 mins",
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 34,
+        "percent": 44.81
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 5362.865635,
+        "digital": "1:29:22",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 22,
+        "percent": 55.19
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 4078.95234,
+        "digital": "1:07:58",
+        "decimal": "1.12",
+        "text": "1 hr 7 mins",
+        "hours": 1,
+        "minutes": 7,
+        "seconds": 58,
+        "percent": 41.97
+      },
+      {
+        "name": "www.nmc.cn",
+        "total_seconds": 275.99097,
+        "digital": "0:04:35",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 35,
+        "percent": 2.84
+      }
+    ],
+    "range": {
+      "start": "2025-06-27T16:00:00Z",
+      "end": "2025-06-28T15:59:59Z",
+      "date": "2025-06-28",
+      "text": "Sat Jun 28th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
