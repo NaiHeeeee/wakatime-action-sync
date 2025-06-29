@@ -1,0 +1,266 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 8116.605868,
+        "digital": "2:15:16",
+        "decimal": "2.25",
+        "text": "2 hrs 15 mins",
+        "hours": 2,
+        "minutes": 15,
+        "seconds": 16,
+        "percent": 83.39
+      },
+      {
+        "name": "Text",
+        "total_seconds": 988.712,
+        "digital": "0:16:28",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 28,
+        "percent": 10.16
+      },
+      {
+        "name": "Other",
+        "total_seconds": 493.651,
+        "digital": "0:08:13",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 13,
+        "percent": 5.07
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 84.693252,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 0.87
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 49.87088,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 0.51
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 42,
+      "total_seconds": 9733.533,
+      "digital": "2:42",
+      "decimal": "2.70",
+      "text": "2 hrs 42 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 9598.968868,
+        "digital": "2:39:58",
+        "decimal": "2.65",
+        "text": "2 hrs 39 mins",
+        "hours": 2,
+        "minutes": 39,
+        "seconds": 58,
+        "percent": 98.62
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 134.564132,
+        "digital": "0:02:14",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 14,
+        "percent": 1.38
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 9733.533,
+        "digital": "2:42:13",
+        "decimal": "2.70",
+        "text": "2 hrs 42 mins",
+        "hours": 2,
+        "minutes": 42,
+        "seconds": 13,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 9598.968868,
+        "digital": "2:39:58",
+        "decimal": "2.65",
+        "text": "2 hrs 39 mins",
+        "hours": 2,
+        "minutes": 39,
+        "seconds": 58,
+        "percent": 98.62
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 134.564132,
+        "digital": "0:02:14",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 14,
+        "percent": 1.38
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"main.js\"",
+        "total_seconds": 84.693252,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 18.15
+      },
+      {
+        "name": "\"common-utils.js\"",
+        "total_seconds": 84.693252,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 18.15
+      },
+      {
+        "name": "\"md5.min.js\"",
+        "total_seconds": 84.693252,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 18.15
+      },
+      {
+        "name": "\"jquery-3.6.0.min.js\"",
+        "total_seconds": 84.693252,
+        "digital": "0:01:24",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 24,
+        "percent": 18.15
+      },
+      {
+        "name": "\"apploader.js\"",
+        "total_seconds": 82.934587,
+        "digital": "0:01:22",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 22,
+        "percent": 17.77
+      },
+      {
+        "name": "\"embyDouban.user.js\"",
+        "total_seconds": 41.071844,
+        "digital": "0:00:41",
+        "decimal": "0.00",
+        "text": "41 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 41,
+        "percent": 8.8
+      },
+      {
+        "name": "\"modules/emby-elements/emby-elements.js\"",
+        "total_seconds": 3.914731,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.84
+      }
+    ],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 9598.968868,
+        "machine_name_id": "17ba4766-c006-488c-b769-b0b5333d003b",
+        "digital": "2:39:58",
+        "decimal": "2.65",
+        "text": "2 hrs 39 mins",
+        "hours": 2,
+        "minutes": 39,
+        "seconds": 58,
+        "percent": 98.62
+      },
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 134.564132,
+        "machine_name_id": "266d03eb-d28e-42bc-bc7f-019e751a2519",
+        "digital": "0:02:14",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 14,
+        "percent": 1.38
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 9598.968868,
+        "digital": "2:39:58",
+        "decimal": "2.65",
+        "text": "2 hrs 39 mins",
+        "hours": 2,
+        "minutes": 39,
+        "seconds": 58,
+        "percent": 98.62
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 134.564132,
+        "digital": "0:02:14",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 14,
+        "percent": 1.38
+      }
+    ],
+    "range": {
+      "start": "2025-06-28T16:00:00Z",
+      "end": "2025-06-29T15:59:59Z",
+      "date": "2025-06-29",
+      "text": "Sun Jun 29th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
