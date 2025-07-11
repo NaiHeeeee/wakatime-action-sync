@@ -1,0 +1,640 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 5994.124113,
+        "digital": "1:39:54",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 54,
+        "percent": 42.87
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 3980.535575,
+        "digital": "1:06:20",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 20,
+        "percent": 28.47
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 2182.747423,
+        "digital": "0:36:22",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 22,
+        "percent": 15.61
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 915.231831,
+        "digital": "0:15:15",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 15,
+        "percent": 6.55
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 477.82265,
+        "digital": "0:07:57",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 57,
+        "percent": 3.42
+      },
+      {
+        "name": "Other",
+        "total_seconds": 238.402172,
+        "digital": "0:03:58",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 58,
+        "percent": 1.71
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 192.577191,
+        "digital": "0:03:12",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 12,
+        "percent": 1.38
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 53,
+      "total_seconds": 13981.440955,
+      "digital": "3:53",
+      "decimal": "3.88",
+      "text": "3 hrs 53 mins"
+    },
+    "editors": [
+      {
+        "name": "Trae",
+        "total_seconds": 9907.14719,
+        "digital": "2:45:07",
+        "decimal": "2.75",
+        "text": "2 hrs 45 mins",
+        "hours": 2,
+        "minutes": 45,
+        "seconds": 7,
+        "percent": 70.86
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 3015.432116,
+        "digital": "0:50:15",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 15,
+        "percent": 21.57
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 1058.861649,
+        "digital": "0:17:38",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 38,
+        "percent": 7.57
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13981.440955,
+        "digital": "3:53:01",
+        "decimal": "3.88",
+        "text": "3 hrs 53 mins",
+        "hours": 3,
+        "minutes": 53,
+        "seconds": 1,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10966.008839,
+        "digital": "3:02:46",
+        "decimal": "3.03",
+        "text": "3 hrs 2 mins",
+        "hours": 3,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 78.43
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 3015.432116,
+        "digital": "0:50:15",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 15,
+        "percent": 21.57
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"js/main.js\"",
+        "total_seconds": 2191.987956,
+        "digital": "0:36:31",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 31,
+        "percent": 21.48
+      },
+      {
+        "name": "\"lib/spine-webgl.js\"",
+        "total_seconds": 2051.624983,
+        "digital": "0:34:11",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 11,
+        "percent": 20.1
+      },
+      {
+        "name": "\"js/fireworks.js\"",
+        "total_seconds": 2003.021639,
+        "digital": "0:33:23",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 23,
+        "percent": 19.63
+      },
+      {
+        "name": "\"lib/anime.min.js\"",
+        "total_seconds": 1541.54546,
+        "digital": "0:25:41",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 41,
+        "percent": 15.11
+      },
+      {
+        "name": "\"laser-pen/main.bundle.js\"",
+        "total_seconds": 534.045916,
+        "digital": "0:08:54",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 54,
+        "percent": 5.23
+      },
+      {
+        "name": "\"laser-pen/simplepeer.min.js\"",
+        "total_seconds": 534.045916,
+        "digital": "0:08:54",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 54,
+        "percent": 5.23
+      },
+      {
+        "name": "\"laser-pen/dist/index.bundle.js\"",
+        "total_seconds": 193.545817,
+        "digital": "0:03:13",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 13,
+        "percent": 1.9
+      },
+      {
+        "name": "bezier-js",
+        "total_seconds": 177.405998,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 1.74
+      },
+      {
+        "name": "\"lib/spine-webgl-4.2.js\"",
+        "total_seconds": 140.362973,
+        "digital": "0:02:20",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 20,
+        "percent": 1.38
+      },
+      {
+        "name": "\"https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js\"",
+        "total_seconds": 139.355903,
+        "digital": "0:02:19",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 19,
+        "percent": 1.37
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bezier-js@6.1.4/dist/bezier.js\"",
+        "total_seconds": 133.341756,
+        "digital": "0:02:13",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 13,
+        "percent": 1.31
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bezier-js@4.1.2/dist/bezier.min.js\"",
+        "total_seconds": 99.948996,
+        "digital": "0:01:39",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 39,
+        "percent": 0.98
+      },
+      {
+        "name": "\"main.bundle.js\"",
+        "total_seconds": 76.04914,
+        "digital": "0:01:16",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 16,
+        "percent": 0.75
+      },
+      {
+        "name": "\"simplepeer.min.js\"",
+        "total_seconds": 76.04914,
+        "digital": "0:01:16",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 16,
+        "percent": 0.75
+      },
+      {
+        "name": "\"index.bundle.js\"",
+        "total_seconds": 68.642266,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 0.67
+      },
+      {
+        "name": "\"./bezier.js\"",
+        "total_seconds": 55.436505,
+        "digital": "0:00:55",
+        "decimal": "0.00",
+        "text": "55 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 55,
+        "percent": 0.54
+      },
+      {
+        "name": "\"https://www.unpkg.com/bezier-js@6.1.4/dist/bezier.js\"",
+        "total_seconds": 54.63855,
+        "digital": "0:00:54",
+        "decimal": "0.00",
+        "text": "54 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 0.54
+      },
+      {
+        "name": "\"https://cdn.jsdelivr.net/npm/bezier-js@4.1.2/dist/bezier.js\"",
+        "total_seconds": 15.937516,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.16
+      },
+      {
+        "name": "\"./_next/static/chunks/main-app-8a603204c2b2a84d.js\"",
+        "total_seconds": 13.572936,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.13
+      },
+      {
+        "name": "\"./_next/static/chunks/app/wpengine/page-26cd9550c881303e.js\"",
+        "total_seconds": 13.572936,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.13
+      },
+      {
+        "name": "\"./_next/static/chunks/614-c5c7640eed2b5b5e.js\"",
+        "total_seconds": 13.572936,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.13
+      },
+      {
+        "name": "\"./_next/static/chunks/fd9d1056-ce1fd67116304840.js\"",
+        "total_seconds": 13.572936,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.13
+      },
+      {
+        "name": "\"./_next/static/chunks/polyfills-c67a75d1b6f99dc8.js\"",
+        "total_seconds": 13.572936,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.13
+      },
+      {
+        "name": "\"./_next/static/chunks/webpack-0e1a124c6b553bb9.js\"",
+        "total_seconds": 13.572936,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.13
+      },
+      {
+        "name": "\"./_next/static/chunks/472-966b4151735f851c.js\"",
+        "total_seconds": 13.572936,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.13
+      },
+      {
+        "name": "b",
+        "total_seconds": 12.85908,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.13
+      },
+      {
+        "name": "</script",
+        "total_seconds": 6.904452,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.07
+      },
+      {
+        "name": ".",
+        "total_seconds": 3.013823,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.03
+      },
+      {
+        "name": "\"https://unpkg.com/bezier-js@6.1.4/dist/bezier.js\"",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 10966.008839,
+        "machine_name_id": "a2b12cae-e174-40d5-a097-df242c2ab586",
+        "digital": "3:02:46",
+        "decimal": "3.03",
+        "text": "3 hrs 2 mins",
+        "hours": 3,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 78.43
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 3015.432116,
+        "machine_name_id": "ab621208-0f27-4c7a-91ad-9333a38bfa2b",
+        "digital": "0:50:15",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 15,
+        "percent": 21.57
+      }
+    ],
+    "projects": [
+      {
+        "name": "index30",
+        "total_seconds": 6511.414016,
+        "digital": "1:48:31",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 31,
+        "percent": 46.57
+      },
+      {
+        "name": "Github",
+        "total_seconds": 3015.432116,
+        "digital": "0:50:15",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 15,
+        "percent": 21.57
+      },
+      {
+        "name": "myprojects",
+        "total_seconds": 1586.361417,
+        "digital": "0:26:26",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 26,
+        "percent": 11.35
+      },
+      {
+        "name": "新建文件夹",
+        "total_seconds": 751.022616,
+        "digital": "0:12:31",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 31,
+        "percent": 5.37
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 731.792528,
+        "digital": "0:12:11",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 11,
+        "percent": 5.23
+      },
+      {
+        "name": "index3",
+        "total_seconds": 533.26535,
+        "digital": "0:08:53",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 53,
+        "percent": 3.81
+      },
+      {
+        "name": "Shirasu_Azusa_Swimsuit",
+        "total_seconds": 420.115226,
+        "digital": "0:07:00",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 0,
+        "percent": 3.0
+      },
+      {
+        "name": "index29",
+        "total_seconds": 199.003478,
+        "digital": "0:03:19",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 19,
+        "percent": 1.42
+      },
+      {
+        "name": "index",
+        "total_seconds": 156.107406,
+        "digital": "0:02:36",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 36,
+        "percent": 1.12
+      },
+      {
+        "name": "laser-pen",
+        "total_seconds": 76.926802,
+        "digital": "0:01:16",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 16,
+        "percent": 0.55
+      },
+      {
+        "name": "Blue Archive（模板）3.8",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "range": {
+      "start": "2025-07-10T16:00:00Z",
+      "end": "2025-07-11T15:59:59Z",
+      "date": "2025-07-11",
+      "text": "Fri Jul 11th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
