@@ -1,0 +1,321 @@
+[
+  {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 3517.938809,
+        "digital": "0:58:37",
+        "decimal": "0.97",
+        "text": "58 mins",
+        "hours": 0,
+        "minutes": 58,
+        "seconds": 37,
+        "percent": 56.9
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 1629.335438,
+        "digital": "0:27:09",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 9,
+        "percent": 26.35
+      },
+      {
+        "name": "Other",
+        "total_seconds": 936.10843,
+        "digital": "0:15:36",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 36,
+        "percent": 15.14
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 63.221048,
+        "digital": "0:01:03",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 3,
+        "percent": 1.02
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 36.367838,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.59
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 43,
+      "total_seconds": 6182.971563,
+      "digital": "1:43",
+      "decimal": "1.72",
+      "text": "1 hr 43 mins"
+    },
+    "editors": [
+      {
+        "name": "Trae",
+        "total_seconds": 3396.679696,
+        "digital": "0:56:36",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 36,
+        "percent": 54.94
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 2786.291867,
+        "digital": "0:46:26",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 26,
+        "percent": 45.06
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6182.971563,
+        "digital": "1:43:02",
+        "decimal": "1.72",
+        "text": "1 hr 43 mins",
+        "hours": 1,
+        "minutes": 43,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3396.679696,
+        "digital": "0:56:36",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 36,
+        "percent": 54.94
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 2786.291867,
+        "digital": "0:46:26",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 26,
+        "percent": 45.06
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"index.bundle.js\"",
+        "total_seconds": 2075.285067,
+        "digital": "0:34:35",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 35,
+        "percent": 27.99
+      },
+      {
+        "name": "\"lib/anime.min.js\"",
+        "total_seconds": 962.674006,
+        "digital": "0:16:02",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 2,
+        "percent": 12.98
+      },
+      {
+        "name": "\"lib/spine-webgl.js\"",
+        "total_seconds": 962.674006,
+        "digital": "0:16:02",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 2,
+        "percent": 12.98
+      },
+      {
+        "name": "\"js/fireworks.js\"",
+        "total_seconds": 962.674006,
+        "digital": "0:16:02",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 2,
+        "percent": 12.98
+      },
+      {
+        "name": "\"js/main.js\"",
+        "total_seconds": 962.674006,
+        "digital": "0:16:02",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 2,
+        "percent": 12.98
+      },
+      {
+        "name": "\"laser-pen-main/dist/index.bundle.js\"",
+        "total_seconds": 451.155472,
+        "digital": "0:07:31",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 31,
+        "percent": 6.09
+      },
+      {
+        "name": "\"main.bundle.js\"",
+        "total_seconds": 255.551757,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 3.45
+      },
+      {
+        "name": "\"simplepeer.min.js\"",
+        "total_seconds": 255.551757,
+        "digital": "0:04:15",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 15,
+        "percent": 3.45
+      },
+      {
+        "name": "\"laser-pen/simplepeer.min.js\"",
+        "total_seconds": 231.380831,
+        "digital": "0:03:51",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 51,
+        "percent": 3.12
+      },
+      {
+        "name": "\"laser-pen/main.bundle.js\"",
+        "total_seconds": 231.380831,
+        "digital": "0:03:51",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 51,
+        "percent": 3.12
+      },
+      {
+        "name": "bezier-js",
+        "total_seconds": 63.221048,
+        "digital": "0:01:03",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 3,
+        "percent": 0.85
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 3396.679696,
+        "machine_name_id": "00bfa033-71f8-4bc3-a061-7c80676f6536",
+        "digital": "0:56:36",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 36,
+        "percent": 54.94
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 2786.291867,
+        "machine_name_id": "5dd9d31c-1700-4393-b16c-9dd8e5b13fbb",
+        "digital": "0:46:26",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 26,
+        "percent": 45.06
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 2786.291867,
+        "digital": "0:46:26",
+        "decimal": "0.77",
+        "text": "46 mins",
+        "hours": 0,
+        "minutes": 46,
+        "seconds": 26,
+        "percent": 45.06
+      },
+      {
+        "name": "dist",
+        "total_seconds": 2176.890687,
+        "digital": "0:36:16",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 16,
+        "percent": 35.21
+      },
+      {
+        "name": "index30",
+        "total_seconds": 1219.789009,
+        "digital": "0:20:19",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 19,
+        "percent": 19.73
+      }
+    ],
+    "range": {
+      "start": "2025-07-11T16:00:00Z",
+      "end": "2025-07-12T15:59:59Z",
+      "date": "2025-07-12",
+      "text": "Sat Jul 12th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
