@@ -1,0 +1,188 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 744.601,
+        "digital": "0:12:24",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 24,
+        "percent": 33.72
+      },
+      {
+        "name": "Other",
+        "total_seconds": 734.132307,
+        "digital": "0:12:14",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 14,
+        "percent": 33.25
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 469.589,
+        "digital": "0:07:49",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 49,
+        "percent": 21.27
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 259.715552,
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 11.76
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 36,
+      "total_seconds": 2208.037859,
+      "digital": "0:36",
+      "decimal": "0.60",
+      "text": "36 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 1948.322307,
+        "digital": "0:32:28",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 28,
+        "percent": 88.24
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 259.715552,
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 11.76
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2208.037859,
+        "digital": "0:36:48",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 48,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 1948.322307,
+        "digital": "0:32:28",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 28,
+        "percent": 88.24
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 259.715552,
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 11.76
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 1948.322307,
+        "machine_name_id": "bc72b15d-75aa-46e0-832c-650af8343ebd",
+        "digital": "0:32:28",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 28,
+        "percent": 88.24
+      },
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 259.715552,
+        "machine_name_id": "fab4da09-e8c6-41c0-8f16-16bddd033071",
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 11.76
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 1948.322307,
+        "digital": "0:32:28",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 28,
+        "percent": 88.24
+      },
+      {
+        "name": "index3",
+        "total_seconds": 259.715552,
+        "digital": "0:04:19",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 19,
+        "percent": 11.76
+      }
+    ],
+    "range": {
+      "start": "2025-07-13T16:00:00Z",
+      "end": "2025-07-14T15:59:59Z",
+      "date": "2025-07-14",
+      "text": "Mon Jul 14th 2025",
+      "timezone": "Asia/Hong_Kong"
+    }
+  }
+]
