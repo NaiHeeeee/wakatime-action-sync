@@ -1,0 +1,188 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 3962.030285,
+        "digital": "1:06:02",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 2,
+        "percent": 96.81
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 81.039337,
+        "digital": "0:01:21",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 21,
+        "percent": 1.98
+      },
+      {
+        "name": "Other",
+        "total_seconds": 49.488632,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 1.21
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 8,
+      "total_seconds": 4092.558254,
+      "digital": "1:08",
+      "decimal": "1.13",
+      "text": "1 hr 8 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3830.637254,
+        "digital": "1:03:50",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 93.6
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 261.921,
+        "digital": "0:04:21",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 21,
+        "percent": 6.4
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4092.558254,
+        "digital": "1:08:12",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 12,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3830.637254,
+        "digital": "1:03:50",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 93.6
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 261.921,
+        "digital": "0:04:21",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 21,
+        "percent": 6.4
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 3830.637254,
+        "machine_name_id": "844887ea-a97a-4d78-97b7-2969d4d451da",
+        "digital": "1:03:50",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 93.6
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 261.921,
+        "machine_name_id": "8908246e-6dd5-473f-ab3e-84a6e094c6b6",
+        "digital": "0:04:21",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 21,
+        "percent": 6.4
+      }
+    ],
+    "projects": [
+      {
+        "name": "index7",
+        "total_seconds": 3690.620061,
+        "digital": "1:01:30",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 30,
+        "percent": 90.18
+      },
+      {
+        "name": "Github",
+        "total_seconds": 261.921,
+        "digital": "0:04:21",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 21,
+        "percent": 6.4
+      },
+      {
+        "name": "bluearchive-data",
+        "total_seconds": 81.039337,
+        "digital": "0:01:21",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 21,
+        "percent": 1.98
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 58.977856,
+        "digital": "0:00:58",
+        "decimal": "0.00",
+        "text": "58 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 58,
+        "percent": 1.44
+      }
+    ],
+    "range": {
+      "start": "2025-07-14T16:00:00Z",
+      "end": "2025-07-15T15:59:59Z",
+      "date": "2025-07-15",
+      "text": "Tue Jul 15th 2025",
+      "timezone": "Asia/Hong_Kong"
+    }
+  }
+]
