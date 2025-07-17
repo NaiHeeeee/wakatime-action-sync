@@ -1,0 +1,177 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 4496.121611,
+        "digital": "1:14:56",
+        "decimal": "1.23",
+        "text": "1 hr 14 mins",
+        "hours": 1,
+        "minutes": 14,
+        "seconds": 56,
+        "percent": 70.18
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1510.247,
+        "digital": "0:25:10",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 10,
+        "percent": 23.57
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 399.979,
+        "digital": "0:06:39",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 39,
+        "percent": 6.24
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 46,
+      "total_seconds": 6406.347611,
+      "digital": "1:46",
+      "decimal": "1.77",
+      "text": "1 hr 46 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 4682.802,
+        "digital": "1:18:02",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 2,
+        "percent": 73.1
+      },
+      {
+        "name": "Trae",
+        "total_seconds": 1522.083036,
+        "digital": "0:25:22",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25,
+        "seconds": 22,
+        "percent": 23.76
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 201.462575,
+        "digital": "0:03:21",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 21,
+        "percent": 3.14
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6406.347611,
+        "digital": "1:46:46",
+        "decimal": "1.77",
+        "text": "1 hr 46 mins",
+        "hours": 1,
+        "minutes": 46,
+        "seconds": 46,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 4682.802,
+        "digital": "1:18:02",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 2,
+        "percent": 73.1
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 1723.545611,
+        "digital": "0:28:43",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 43,
+        "percent": 26.9
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 4682.802,
+        "machine_name_id": "21484a2b-27e4-4f1f-8ea3-3f0c28d7d3f1",
+        "digital": "1:18:02",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 2,
+        "percent": 73.1
+      },
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 1723.545611,
+        "machine_name_id": "870c0ff8-913a-49b2-a8db-caf1d8b9812a",
+        "digital": "0:28:43",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 43,
+        "percent": 26.9
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 4682.802,
+        "digital": "1:18:02",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 2,
+        "percent": 73.1
+      },
+      {
+        "name": "NaiHeBAWallpaper",
+        "total_seconds": 1723.545611,
+        "digital": "0:28:43",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 43,
+        "percent": 26.9
+      }
+    ],
+    "range": {
+      "start": "2025-07-16T16:00:00Z",
+      "end": "2025-07-17T15:59:59Z",
+      "date": "2025-07-17",
+      "text": "Thu Jul 17th 2025",
+      "timezone": "Asia/Hong_Kong"
+    }
+  }
+]
