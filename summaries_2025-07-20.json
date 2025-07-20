@@ -1,0 +1,143 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 6534.718,
+        "digital": "1:48:54",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 54,
+        "percent": 72.3
+      },
+      {
+        "name": "Text",
+        "total_seconds": 1335.383,
+        "digital": "0:22:15",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 15,
+        "percent": 14.78
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1152.905,
+        "digital": "0:19:12",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 12,
+        "percent": 12.76
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 10.939,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.12
+      },
+      {
+        "name": "Shell",
+        "total_seconds": 4.083,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.05
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 30,
+      "total_seconds": 9038.028,
+      "digital": "2:30",
+      "decimal": "2.50",
+      "text": "2 hrs 30 mins"
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 9038.028,
+        "digital": "2:30:38",
+        "decimal": "2.50",
+        "text": "2 hrs 30 mins",
+        "hours": 2,
+        "minutes": 30,
+        "seconds": 38,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 9038.028,
+        "digital": "2:30:38",
+        "decimal": "2.50",
+        "text": "2 hrs 30 mins",
+        "hours": 2,
+        "minutes": 30,
+        "seconds": 38,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 9038.028,
+        "digital": "2:30:38",
+        "decimal": "2.50",
+        "text": "2 hrs 30 mins",
+        "hours": 2,
+        "minutes": 30,
+        "seconds": 38,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 9038.028,
+        "machine_name_id": "1465ed70-1bbc-493f-b77b-e2a564df44f6",
+        "digital": "2:30:38",
+        "decimal": "2.50",
+        "text": "2 hrs 30 mins",
+        "hours": 2,
+        "minutes": 30,
+        "seconds": 38,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 9038.028,
+        "digital": "2:30:38",
+        "decimal": "2.50",
+        "text": "2 hrs 30 mins",
+        "hours": 2,
+        "minutes": 30,
+        "seconds": 38,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-07-19T16:00:00Z",
+      "end": "2025-07-20T15:59:59Z",
+      "date": "2025-07-20",
+      "text": "Sun Jul 20th 2025",
+      "timezone": "Asia/Hong_Kong"
+    }
+  }
+]
