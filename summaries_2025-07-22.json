@@ -1,0 +1,739 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 9418.062308,
+        "digital": "2:36:58",
+        "decimal": "2.60",
+        "text": "2 hrs 36 mins",
+        "hours": 2,
+        "minutes": 36,
+        "seconds": 58,
+        "percent": 55.82
+      },
+      {
+        "name": "C#",
+        "total_seconds": 3282.622678,
+        "digital": "0:54:42",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 42,
+        "percent": 19.46
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 1637.490017,
+        "digital": "0:27:17",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 17,
+        "percent": 9.71
+      },
+      {
+        "name": "Python",
+        "total_seconds": 1436.426701,
+        "digital": "0:23:56",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23,
+        "seconds": 56,
+        "percent": 8.51
+      },
+      {
+        "name": "Other",
+        "total_seconds": 728.272,
+        "digital": "0:12:08",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 8,
+        "percent": 4.32
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 355.318344,
+        "digital": "0:05:55",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 55,
+        "percent": 2.11
+      },
+      {
+        "name": "Text",
+        "total_seconds": 7.617,
+        "digital": "0:00:07",
+        "decimal": "0.00",
+        "text": "7 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 7,
+        "percent": 0.05
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 6.338,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.04
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 41,
+      "total_seconds": 16872.147048,
+      "digital": "4:41",
+      "decimal": "4.68",
+      "text": "4 hrs 41 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 9168.465814,
+        "digital": "2:32:48",
+        "decimal": "2.53",
+        "text": "2 hrs 32 mins",
+        "hours": 2,
+        "minutes": 32,
+        "seconds": 48,
+        "percent": 54.34
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 7220.244687,
+        "digital": "2:00:20",
+        "decimal": "2.00",
+        "text": "2 hrs",
+        "hours": 2,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 42.79
+      },
+      {
+        "name": "Trae",
+        "total_seconds": 483.436547,
+        "digital": "0:08:03",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 3,
+        "percent": 2.87
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 16872.147048,
+        "digital": "4:41:12",
+        "decimal": "4.68",
+        "text": "4 hrs 41 mins",
+        "hours": 4,
+        "minutes": 41,
+        "seconds": 12,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 9651.902361,
+        "digital": "2:40:51",
+        "decimal": "2.67",
+        "text": "2 hrs 40 mins",
+        "hours": 2,
+        "minutes": 40,
+        "seconds": 51,
+        "percent": 57.21
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 7220.244687,
+        "digital": "2:00:20",
+        "decimal": "2.00",
+        "text": "2 hrs",
+        "hours": 2,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 42.79
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "pathlib",
+        "total_seconds": 832.617456,
+        "digital": "0:13:52",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 52,
+        "percent": 3.58
+      },
+      {
+        "name": "re",
+        "total_seconds": 832.617456,
+        "digital": "0:13:52",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 52,
+        "percent": 3.58
+      },
+      {
+        "name": "shutil",
+        "total_seconds": 832.617456,
+        "digital": "0:13:52",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 52,
+        "percent": 3.58
+      },
+      {
+        "name": "Newtonsoft",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "MXBehaviorTree",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Cysharp",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Mx",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Animancer",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "AutoMapper",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Nexon",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "MX",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "JetBrains",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "MXField",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "MXStudio",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Internal",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Ngsm",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "MXGenericGraph",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "NPA",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Firebase",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Cinemachine",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "PlatformSupport",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "UnityEngine",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "BestHTTP",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "AOT",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "AnimationOrTween",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "SQLite",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "FlatData",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Media",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "MemoryPack",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "ICSharpCode",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Unity",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Antlr",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "_MX",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Lean",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "MXUnderCover",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Spine",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "MXPath",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "E7",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Nordeus",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "FlatBuffers",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "Assets",
+        "total_seconds": 520.678678,
+        "digital": "0:08:40",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 40,
+        "percent": 2.24
+      },
+      {
+        "name": "whisper",
+        "total_seconds": 429.014521,
+        "digital": "0:07:09",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 9,
+        "percent": 1.85
+      },
+      {
+        "name": "glob",
+        "total_seconds": 429.014521,
+        "digital": "0:07:09",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 9,
+        "percent": 1.85
+      },
+      {
+        "name": "json",
+        "total_seconds": 85.739244,
+        "digital": "0:01:25",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 25,
+        "percent": 0.37
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 9651.902361,
+        "machine_name_id": "870c0ff8-913a-49b2-a8db-caf1d8b9812a",
+        "digital": "2:40:51",
+        "decimal": "2.67",
+        "text": "2 hrs 40 mins",
+        "hours": 2,
+        "minutes": 40,
+        "seconds": 51,
+        "percent": 57.21
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 7220.244687,
+        "machine_name_id": "5e845ea5-239e-492f-8ca9-4c8d0a357f14",
+        "digital": "2:00:20",
+        "decimal": "2.00",
+        "text": "2 hrs",
+        "hours": 2,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 42.79
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 7220.244687,
+        "digital": "2:00:20",
+        "decimal": "2.00",
+        "text": "2 hrs",
+        "hours": 2,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 42.79
+      },
+      {
+        "name": "index30",
+        "total_seconds": 7073.300158,
+        "digital": "1:57:53",
+        "decimal": "1.95",
+        "text": "1 hr 57 mins",
+        "hours": 1,
+        "minutes": 57,
+        "seconds": 53,
+        "percent": 41.92
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 2530.800719,
+        "digital": "0:42:10",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 10,
+        "percent": 15.0
+      },
+      {
+        "name": "bluearchive-data",
+        "total_seconds": 47.801484,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 0.28
+      }
+    ],
+    "range": {
+      "start": "2025-07-21T16:00:00Z",
+      "end": "2025-07-22T15:59:59Z",
+      "date": "2025-07-22",
+      "text": "Tue Jul 22nd 2025",
+      "timezone": "Asia/Hong_Kong"
+    }
+  }
+]
