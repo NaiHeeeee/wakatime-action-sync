@@ -1,0 +1,276 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 17685.501259,
+        "digital": "4:54:45",
+        "decimal": "4.90",
+        "text": "4 hrs 54 mins",
+        "hours": 4,
+        "minutes": 54,
+        "seconds": 45,
+        "percent": 85.29
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 1712.28848,
+        "digital": "0:28:32",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 32,
+        "percent": 8.26
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1307.906272,
+        "digital": "0:21:47",
+        "decimal": "0.35",
+        "text": "21 mins",
+        "hours": 0,
+        "minutes": 21,
+        "seconds": 47,
+        "percent": 6.31
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 27.610511,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.13
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 3.21693,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.02
+      }
+    ],
+    "grand_total": {
+      "hours": 5,
+      "minutes": 45,
+      "total_seconds": 20736.523452,
+      "digital": "5:45",
+      "decimal": "5.75",
+      "text": "5 hrs 45 mins"
+    },
+    "editors": [
+      {
+        "name": "Trae",
+        "total_seconds": 17525.073592,
+        "digital": "4:52:05",
+        "decimal": "4.87",
+        "text": "4 hrs 52 mins",
+        "hours": 4,
+        "minutes": 52,
+        "seconds": 5,
+        "percent": 84.51
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 3211.44986,
+        "digital": "0:53:31",
+        "decimal": "0.88",
+        "text": "53 mins",
+        "hours": 0,
+        "minutes": 53,
+        "seconds": 31,
+        "percent": 15.49
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 20736.523452,
+        "digital": "5:45:36",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 36,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 18355.086613,
+        "digital": "5:05:55",
+        "decimal": "5.08",
+        "text": "5 hrs 5 mins",
+        "hours": 5,
+        "minutes": 5,
+        "seconds": 55,
+        "percent": 88.52
+      },
+      {
+        "name": "AI Coding",
+        "total_seconds": 2381.436839,
+        "digital": "0:39:41",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 41,
+        "percent": 11.48
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"js/main.js\"",
+        "total_seconds": 3.21693,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 25.0
+      },
+      {
+        "name": "\"lib/spine-webgl-4.2.js\"",
+        "total_seconds": 3.21693,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 25.0
+      },
+      {
+        "name": "\"lib/anime.min.js\"",
+        "total_seconds": 3.21693,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 25.0
+      },
+      {
+        "name": "\"js/fireworks.js\"",
+        "total_seconds": 3.21693,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 25.0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 20736.523452,
+        "machine_name_id": "870c0ff8-913a-49b2-a8db-caf1d8b9812a",
+        "digital": "5:45:36",
+        "decimal": "5.75",
+        "text": "5 hrs 45 mins",
+        "hours": 5,
+        "minutes": 45,
+        "seconds": 36,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "index35",
+        "total_seconds": 14969.76687,
+        "digital": "4:09:29",
+        "decimal": "4.15",
+        "text": "4 hrs 9 mins",
+        "hours": 4,
+        "minutes": 9,
+        "seconds": 29,
+        "percent": 72.19
+      },
+      {
+        "name": "Yurizono_Seia_Swimsuit",
+        "total_seconds": 2071.732705,
+        "digital": "0:34:31",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 31,
+        "percent": 9.99
+      },
+      {
+        "name": "Documents",
+        "total_seconds": 1712.28848,
+        "digital": "0:28:32",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 32,
+        "percent": 8.26
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 863.764019,
+        "digital": "0:14:23",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 23,
+        "percent": 4.17
+      },
+      {
+        "name": "index34",
+        "total_seconds": 725.297671,
+        "digital": "0:12:05",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 5,
+        "percent": 3.5
+      },
+      {
+        "name": "index8",
+        "total_seconds": 275.953136,
+        "digital": "0:04:35",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 35,
+        "percent": 1.33
+      },
+      {
+        "name": "index33",
+        "total_seconds": 117.720571,
+        "digital": "0:01:57",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 57,
+        "percent": 0.57
+      }
+    ],
+    "range": {
+      "start": "2025-07-25T16:00:00Z",
+      "end": "2025-07-26T15:59:59Z",
+      "date": "2025-07-26",
+      "text": "Sat Jul 26th 2025",
+      "timezone": "Asia/Hong_Kong"
+    }
+  }
+]
