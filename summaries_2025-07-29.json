@@ -1,0 +1,180 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 3414.653518,
+        "digital": "0:56:54",
+        "decimal": "0.93",
+        "text": "56 mins",
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 54,
+        "percent": 95.4
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 164.752614,
+        "digital": "0:02:44",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "percent": 4.6
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 59,
+      "total_seconds": 3579.406132,
+      "digital": "0:59",
+      "decimal": "0.98",
+      "text": "59 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3056.185002,
+        "digital": "0:50:56",
+        "decimal": "0.83",
+        "text": "50 mins",
+        "hours": 0,
+        "minutes": 50,
+        "seconds": 56,
+        "percent": 85.38
+      },
+      {
+        "name": "Trae",
+        "total_seconds": 523.22113,
+        "digital": "0:08:43",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 43,
+        "percent": 14.62
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3579.406132,
+        "digital": "0:59:39",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 39,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3547.138166,
+        "digital": "0:59:07",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 7,
+        "percent": 99.1
+      },
+      {
+        "name": "AI Coding",
+        "total_seconds": 32.267966,
+        "digital": "0:00:32",
+        "decimal": "0.00",
+        "text": "32 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 32,
+        "percent": 0.9
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 3579.406132,
+        "machine_name_id": "8228868e-6859-4d84-8166-d1ed0d24aa23",
+        "digital": "0:59:39",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 39,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "index29",
+        "total_seconds": 1216.501764,
+        "digital": "0:20:16",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20,
+        "seconds": 16,
+        "percent": 33.99
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 1089.104957,
+        "digital": "0:18:09",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 9,
+        "percent": 30.43
+      },
+      {
+        "name": "myprojects",
+        "total_seconds": 942.90127,
+        "digital": "0:15:42",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 42,
+        "percent": 26.34
+      },
+      {
+        "name": "index35",
+        "total_seconds": 330.898141,
+        "digital": "0:05:30",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 30,
+        "percent": 9.24
+      },
+      {
+        "name": "Aomori_Mine_Idol",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "range": {
+      "start": "2025-07-28T16:00:00Z",
+      "end": "2025-07-29T15:59:59Z",
+      "date": "2025-07-29",
+      "text": "Tue Jul 29th 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
