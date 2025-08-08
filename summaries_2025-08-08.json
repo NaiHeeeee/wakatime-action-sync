@@ -1,0 +1,122 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Vue.js",
+        "total_seconds": 6616.802,
+        "digital": "1:50:16",
+        "decimal": "1.83",
+        "text": "1 hr 50 mins",
+        "hours": 1,
+        "minutes": 50,
+        "seconds": 16,
+        "percent": 93.09
+      },
+      {
+        "name": "Other",
+        "total_seconds": 491.398,
+        "digital": "0:08:11",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 11,
+        "percent": 6.91
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 58,
+      "total_seconds": 7108.2,
+      "digital": "1:58",
+      "decimal": "1.97",
+      "text": "1 hr 58 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 7108.2,
+        "digital": "1:58:28",
+        "decimal": "1.97",
+        "text": "1 hr 58 mins",
+        "hours": 1,
+        "minutes": 58,
+        "seconds": 28,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7108.2,
+        "digital": "1:58:28",
+        "decimal": "1.97",
+        "text": "1 hr 58 mins",
+        "hours": 1,
+        "minutes": 58,
+        "seconds": 28,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 7108.2,
+        "digital": "1:58:28",
+        "decimal": "1.97",
+        "text": "1 hr 58 mins",
+        "hours": 1,
+        "minutes": 58,
+        "seconds": 28,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 7108.2,
+        "machine_name_id": "e295e55c-d282-4a77-a039-42dbbb4839b6",
+        "digital": "1:58:28",
+        "decimal": "1.97",
+        "text": "1 hr 58 mins",
+        "hours": 1,
+        "minutes": 58,
+        "seconds": 28,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 7108.2,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "1:58:28",
+        "decimal": "1.97",
+        "text": "1 hr 58 mins",
+        "hours": 1,
+        "minutes": 58,
+        "seconds": 28,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-08-07T16:00:00Z",
+      "end": "2025-08-08T15:59:59Z",
+      "date": "2025-08-08",
+      "text": "Fri Aug 8th 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
