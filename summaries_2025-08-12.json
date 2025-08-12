@@ -1,0 +1,572 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 20973.271,
+        "digital": "5:49:33",
+        "decimal": "5.82",
+        "text": "5 hrs 49 mins",
+        "hours": 5,
+        "minutes": 49,
+        "seconds": 33,
+        "percent": 36.34
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 20222.575,
+        "digital": "5:37:02",
+        "decimal": "5.62",
+        "text": "5 hrs 37 mins",
+        "hours": 5,
+        "minutes": 37,
+        "seconds": 2,
+        "percent": 35.04
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 5899.685,
+        "digital": "1:38:19",
+        "decimal": "1.63",
+        "text": "1 hr 38 mins",
+        "hours": 1,
+        "minutes": 38,
+        "seconds": 19,
+        "percent": 10.22
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 5676.628,
+        "digital": "1:34:36",
+        "decimal": "1.57",
+        "text": "1 hr 34 mins",
+        "hours": 1,
+        "minutes": 34,
+        "seconds": 36,
+        "percent": 9.84
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 1643.812,
+        "digital": "0:27:23",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 23,
+        "percent": 2.85
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 1166.253,
+        "digital": "0:19:26",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 26,
+        "percent": 2.02
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 842.645,
+        "digital": "0:14:02",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 2,
+        "percent": 1.46
+      },
+      {
+        "name": "Other",
+        "total_seconds": 784.188,
+        "digital": "0:13:04",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 4,
+        "percent": 1.36
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 275.171,
+        "digital": "0:04:35",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 35,
+        "percent": 0.48
+      },
+      {
+        "name": "Python",
+        "total_seconds": 211.742,
+        "digital": "0:03:31",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 31,
+        "percent": 0.37
+      },
+      {
+        "name": "Go",
+        "total_seconds": 10.725,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.02
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 1.42,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.0
+      }
+    ],
+    "grand_total": {
+      "hours": 16,
+      "minutes": 1,
+      "total_seconds": 57708.115,
+      "digital": "16:01",
+      "decimal": "16.02",
+      "text": "16 hrs 1 min",
+      "ai_additions": 597,
+      "ai_deletions": 483,
+      "human_additions": 6962,
+      "human_deletions": 4790
+    },
+    "editors": [
+      {
+        "name": "Trae",
+        "total_seconds": 54052.46,
+        "digital": "15:00:52",
+        "decimal": "15.00",
+        "text": "15 hrs",
+        "hours": 15,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 93.67
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 3312.086,
+        "digital": "0:55:12",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 12,
+        "percent": 5.74
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 343.569,
+        "digital": "0:05:43",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 43,
+        "percent": 0.6
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 57708.115,
+        "digital": "16:01:48",
+        "decimal": "16.02",
+        "text": "16 hrs 1 min",
+        "hours": 16,
+        "minutes": 1,
+        "seconds": 48,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 47818.545,
+        "digital": "13:16:58",
+        "decimal": "13.27",
+        "text": "13 hrs 16 mins",
+        "hours": 13,
+        "minutes": 16,
+        "seconds": 58,
+        "percent": 82.86
+      },
+      {
+        "name": "AI Coding",
+        "total_seconds": 5543.478,
+        "digital": "1:32:23",
+        "decimal": "1.53",
+        "text": "1 hr 32 mins",
+        "hours": 1,
+        "minutes": 32,
+        "seconds": 23,
+        "percent": 9.61
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 3312.086,
+        "digital": "0:55:12",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 12,
+        "percent": 5.74
+      },
+      {
+        "name": "Writing Docs",
+        "total_seconds": 1034.006,
+        "digital": "0:17:14",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 14,
+        "percent": 1.79
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"js/main.js\"",
+        "total_seconds": 19442.514,
+        "digital": "5:24:02",
+        "decimal": "5.40",
+        "text": "5 hrs 24 mins",
+        "hours": 5,
+        "minutes": 24,
+        "seconds": 2,
+        "percent": 43.36
+      },
+      {
+        "name": "\"js/tailwindcss.js\"",
+        "total_seconds": 19246.064,
+        "digital": "5:20:46",
+        "decimal": "5.33",
+        "text": "5 hrs 20 mins",
+        "hours": 5,
+        "minutes": 20,
+        "seconds": 46,
+        "percent": 42.92
+      },
+      {
+        "name": "\"js/filter.js\"",
+        "total_seconds": 3774.618,
+        "digital": "1:02:54",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 54,
+        "percent": 8.42
+      },
+      {
+        "name": "npm",
+        "total_seconds": 352.608,
+        "digital": "0:05:52",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 52,
+        "percent": 0.79
+      },
+      {
+        "name": "@tauri-apps/cli",
+        "total_seconds": 352.608,
+        "digital": "0:05:52",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 52,
+        "percent": 0.79
+      },
+      {
+        "name": "tailwindcss",
+        "total_seconds": 352.608,
+        "digital": "0:05:52",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 52,
+        "percent": 0.79
+      },
+      {
+        "name": "@tailwindcss/cli",
+        "total_seconds": 352.608,
+        "digital": "0:05:52",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 52,
+        "percent": 0.79
+      },
+      {
+        "name": "pathlib",
+        "total_seconds": 211.742,
+        "digital": "0:03:31",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 31,
+        "percent": 0.47
+      },
+      {
+        "name": "PIL",
+        "total_seconds": 166.814,
+        "digital": "0:02:46",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 46,
+        "percent": 0.37
+      },
+      {
+        "name": "\"https://cdn.tailwindcss.com\"",
+        "total_seconds": 130.829,
+        "digital": "0:02:10",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 10,
+        "percent": 0.29
+      },
+      {
+        "name": "window?module",
+        "total_seconds": 121.75,
+        "digital": "0:02:01",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 1,
+        "percent": 0.27
+      },
+      {
+        "name": "\"/js/main.js\"",
+        "total_seconds": 64.722,
+        "digital": "0:01:04",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 4,
+        "percent": 0.14
+      },
+      {
+        "name": "shutil",
+        "total_seconds": 48.395,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.11
+      },
+      {
+        "name": "subprocess",
+        "total_seconds": 48.395,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 0.11
+      },
+      {
+        "name": "@tauri-apps/plugin-upload",
+        "total_seconds": 37.608,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.08
+      },
+      {
+        "name": "@tauri-apps/plugin-shell",
+        "total_seconds": 37.608,
+        "digital": "0:00:37",
+        "decimal": "0.00",
+        "text": "37 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 37,
+        "percent": 0.08
+      },
+      {
+        "name": "\"/js/tailwindcss.js\"",
+        "total_seconds": 36.987,
+        "digital": "0:00:36",
+        "decimal": "0.00",
+        "text": "36 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 36,
+        "percent": 0.08
+      },
+      {
+        "name": "\"\"",
+        "total_seconds": 26.66,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 0.06
+      },
+      {
+        "name": "window",
+        "total_seconds": 19.963,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.04
+      },
+      {
+        "name": "struct",
+        "total_seconds": 5.983,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.01
+      },
+      {
+        "name": "cairosvg",
+        "total_seconds": 3.467,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.01
+      },
+      {
+        "name": "io",
+        "total_seconds": 2.516,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.01
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 54396.029,
+        "machine_name_id": "8228868e-6859-4d84-8166-d1ed0d24aa23",
+        "digital": "15:06:36",
+        "decimal": "15.10",
+        "text": "15 hrs 6 mins",
+        "hours": 15,
+        "minutes": 6,
+        "seconds": 36,
+        "percent": 94.26
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 3312.086,
+        "machine_name_id": "bc72b15d-75aa-46e0-832c-650af8343ebd",
+        "digital": "0:55:12",
+        "decimal": "0.92",
+        "text": "55 mins",
+        "hours": 0,
+        "minutes": 55,
+        "seconds": 12,
+        "percent": 5.74
+      }
+    ],
+    "projects": [
+      {
+        "name": "repkg-gui",
+        "total_seconds": 49457.569,
+        "ai_additions": 597,
+        "ai_deletions": 483,
+        "human_additions": 6100,
+        "human_deletions": 4312,
+        "digital": "13:44:17",
+        "decimal": "13.73",
+        "text": "13 hrs 44 mins",
+        "hours": 13,
+        "minutes": 44,
+        "seconds": 17,
+        "percent": 85.7
+      },
+      {
+        "name": "dev",
+        "total_seconds": 5004.02,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 862,
+        "human_deletions": 478,
+        "digital": "1:23:24",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 24,
+        "percent": 8.67
+      },
+      {
+        "name": "Github",
+        "total_seconds": 3246.526,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:54:06",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 6,
+        "percent": 5.63
+      }
+    ],
+    "range": {
+      "start": "2025-08-11T16:00:00Z",
+      "end": "2025-08-12T15:59:59Z",
+      "date": "2025-08-12",
+      "text": "Tue Aug 12th 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
