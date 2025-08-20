@@ -1,0 +1,260 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 11694.322,
+        "digital": "3:14:54",
+        "decimal": "3.23",
+        "text": "3 hrs 14 mins",
+        "hours": 3,
+        "minutes": 14,
+        "seconds": 54,
+        "percent": 98.06
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 106.508,
+        "digital": "0:01:46",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 46,
+        "percent": 0.89
+      },
+      {
+        "name": "Other",
+        "total_seconds": 101.043,
+        "digital": "0:01:41",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 41,
+        "percent": 0.85
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 23.909,
+        "digital": "0:00:23",
+        "decimal": "0.00",
+        "text": "23 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 23,
+        "percent": 0.2
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 18,
+      "total_seconds": 11925.782,
+      "digital": "3:18",
+      "decimal": "3.30",
+      "text": "3 hrs 18 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 566,
+      "human_deletions": 461
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5624.11,
+        "digital": "1:33:44",
+        "decimal": "1.55",
+        "text": "1 hr 33 mins",
+        "hours": 1,
+        "minutes": 33,
+        "seconds": 44,
+        "percent": 47.16
+      },
+      {
+        "name": "Trae",
+        "total_seconds": 5261.759,
+        "digital": "1:27:41",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 41,
+        "percent": 44.12
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 1039.913,
+        "digital": "0:17:19",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 19,
+        "percent": 8.72
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 11925.782,
+        "digital": "3:18:45",
+        "decimal": "3.30",
+        "text": "3 hrs 18 mins",
+        "hours": 3,
+        "minutes": 18,
+        "seconds": 45,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 10817.618,
+        "digital": "3:00:17",
+        "decimal": "3.00",
+        "text": "3 hrs",
+        "hours": 3,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 90.71
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 1039.913,
+        "digital": "0:17:19",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 19,
+        "percent": 8.72
+      },
+      {
+        "name": "Writing Docs",
+        "total_seconds": 68.251,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 0.57
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 10885.869,
+        "machine_name_id": "9ad130e5-0d72-45f2-9337-565c0ef2da5b",
+        "digital": "3:01:25",
+        "decimal": "3.02",
+        "text": "3 hrs 1 min",
+        "hours": 3,
+        "minutes": 1,
+        "seconds": 25,
+        "percent": 91.28
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 1039.913,
+        "machine_name_id": "1465ed70-1bbc-493f-b77b-e2a564df44f6",
+        "digital": "0:17:19",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 19,
+        "percent": 8.72
+      }
+    ],
+    "projects": [
+      {
+        "name": "index35",
+        "total_seconds": 5373.833,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 187,
+        "human_deletions": 251,
+        "digital": "1:29:33",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 33,
+        "percent": 45.06
+      },
+      {
+        "name": "index36",
+        "total_seconds": 4983.649,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 379,
+        "human_deletions": 187,
+        "digital": "1:23:03",
+        "decimal": "1.38",
+        "text": "1 hr 23 mins",
+        "hours": 1,
+        "minutes": 23,
+        "seconds": 3,
+        "percent": 41.79
+      },
+      {
+        "name": "Github",
+        "total_seconds": 1039.913,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:17:19",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 19,
+        "percent": 8.72
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 460.136,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:07:40",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 40,
+        "percent": 3.86
+      },
+      {
+        "name": "repkg-gui",
+        "total_seconds": 68.251,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 23,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 0.57
+      }
+    ],
+    "range": {
+      "start": "2025-08-19T16:00:00Z",
+      "end": "2025-08-20T15:59:59Z",
+      "date": "2025-08-20",
+      "text": "Wed Aug 20th 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
