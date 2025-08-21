@@ -1,0 +1,595 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 3811.727,
+        "digital": "1:03:31",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 31,
+        "percent": 45.17
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 1845.05,
+        "digital": "0:30:45",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 45,
+        "percent": 21.86
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 685.2,
+        "digital": "0:11:25",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 25,
+        "percent": 8.12
+      },
+      {
+        "name": "HTML",
+        "total_seconds": 634.427,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 7.52
+      },
+      {
+        "name": "Other",
+        "total_seconds": 432.257,
+        "digital": "0:07:12",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 12,
+        "percent": 5.12
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 398.605,
+        "digital": "0:06:38",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 38,
+        "percent": 4.72
+      },
+      {
+        "name": "Python",
+        "total_seconds": 334.947,
+        "digital": "0:05:34",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 34,
+        "percent": 3.97
+      },
+      {
+        "name": "C",
+        "total_seconds": 103.004,
+        "digital": "0:01:43",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 43,
+        "percent": 1.22
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 68.823,
+        "digital": "0:01:08",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 8,
+        "percent": 0.82
+      },
+      {
+        "name": "Text",
+        "total_seconds": 56.724,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 0.67
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 52.358,
+        "digital": "0:00:52",
+        "decimal": "0.00",
+        "text": "52 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 0.62
+      },
+      {
+        "name": "C#",
+        "total_seconds": 16.036,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.19
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 20,
+      "total_seconds": 8439.158,
+      "digital": "2:20",
+      "decimal": "2.33",
+      "text": "2 hrs 20 mins",
+      "ai_additions": 0,
+      "ai_deletions": 1,
+      "human_additions": 311,
+      "human_deletions": 397
+    },
+    "editors": [
+      {
+        "name": "Trae",
+        "total_seconds": 5947.014,
+        "digital": "1:39:07",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 7,
+        "percent": 70.47
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 1915.943,
+        "digital": "0:31:55",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 55,
+        "percent": 22.7
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 576.201,
+        "digital": "0:09:36",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 36,
+        "percent": 6.83
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8439.158,
+        "digital": "2:20:39",
+        "decimal": "2.33",
+        "text": "2 hrs 20 mins",
+        "hours": 2,
+        "minutes": 20,
+        "seconds": 39,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6508.736,
+        "digital": "1:48:28",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 28,
+        "percent": 77.13
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 1915.943,
+        "digital": "0:31:55",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 55,
+        "percent": 22.7
+      },
+      {
+        "name": "AI Coding",
+        "total_seconds": 14.479,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 0.17
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "\"js/background.js\"",
+        "total_seconds": 634.427,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 13.11
+      },
+      {
+        "name": "\"js/settings.js\"",
+        "total_seconds": 634.427,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 13.11
+      },
+      {
+        "name": "\"./i18n/i18n.js\"",
+        "total_seconds": 634.427,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 13.11
+      },
+      {
+        "name": "\"js/tailwindcss.js\"",
+        "total_seconds": 634.427,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 13.11
+      },
+      {
+        "name": "\"js/wallpaper-editor.js\"",
+        "total_seconds": 634.427,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 13.11
+      },
+      {
+        "name": "\"js/context-menu.js\"",
+        "total_seconds": 634.427,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 13.11
+      },
+      {
+        "name": "\"js/main.js\"",
+        "total_seconds": 634.427,
+        "digital": "0:10:34",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 34,
+        "percent": 13.11
+      },
+      {
+        "name": "errno",
+        "total_seconds": 74.778,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 1.54
+      },
+      {
+        "name": "mpkg",
+        "total_seconds": 74.778,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 1.54
+      },
+      {
+        "name": "sys",
+        "total_seconds": 74.778,
+        "digital": "0:01:14",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 14,
+        "percent": 1.54
+      },
+      {
+        "name": "index",
+        "total_seconds": 28.211,
+        "digital": "0:00:28",
+        "decimal": "0.00",
+        "text": "28 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 28,
+        "percent": 0.58
+      },
+      {
+        "name": "vue",
+        "total_seconds": 22.771,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.47
+      },
+      {
+        "name": "tailwind",
+        "total_seconds": 19.223,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.4
+      },
+      {
+        "name": "App",
+        "total_seconds": 19.223,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.4
+      },
+      {
+        "name": "uno",
+        "total_seconds": 19.223,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.4
+      },
+      {
+        "name": "jszip",
+        "total_seconds": 19.186,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.4
+      },
+      {
+        "name": "element-plus",
+        "total_seconds": 19.186,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 0.4
+      },
+      {
+        "name": "es",
+        "total_seconds": 12.536,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.26
+      },
+      {
+        "name": "HelloWorld",
+        "total_seconds": 8.988,
+        "digital": "0:00:08",
+        "decimal": "0.00",
+        "text": "8 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 8,
+        "percent": 0.19
+      },
+      {
+        "name": "stdint",
+        "total_seconds": 3.67,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.08
+      },
+      {
+        "name": "core",
+        "total_seconds": 3.548,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.07
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 6523.215,
+        "machine_name_id": "5009bf8d-9a4d-4d9a-8772-38ba33f13918",
+        "digital": "1:48:43",
+        "decimal": "1.80",
+        "text": "1 hr 48 mins",
+        "hours": 1,
+        "minutes": 48,
+        "seconds": 43,
+        "percent": 77.3
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 1915.943,
+        "machine_name_id": "1465ed70-1bbc-493f-b77b-e2a564df44f6",
+        "digital": "0:31:55",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 55,
+        "percent": 22.7
+      }
+    ],
+    "projects": [
+      {
+        "name": "repkg-gui",
+        "total_seconds": 5483.705,
+        "ai_additions": 0,
+        "ai_deletions": 1,
+        "human_additions": 308,
+        "human_deletions": 394,
+        "digital": "1:31:23",
+        "decimal": "1.52",
+        "text": "1 hr 31 mins",
+        "hours": 1,
+        "minutes": 31,
+        "seconds": 23,
+        "percent": 64.98
+      },
+      {
+        "name": "Github",
+        "total_seconds": 1915.943,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:31:55",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 55,
+        "percent": 22.7
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 541.379,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 3,
+        "human_deletions": 3,
+        "digital": "0:09:01",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 1,
+        "percent": 6.42
+      },
+      {
+        "name": "unmpkg-main",
+        "total_seconds": 325.442,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:05:25",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 25,
+        "percent": 3.86
+      },
+      {
+        "name": "dev",
+        "total_seconds": 137.867,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:02:17",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 17,
+        "percent": 1.63
+      },
+      {
+        "name": "Itagaki_Kanoe",
+        "total_seconds": 34.822,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 0.41
+      }
+    ],
+    "range": {
+      "start": "2025-08-20T16:00:00Z",
+      "end": "2025-08-21T15:59:59Z",
+      "date": "2025-08-21",
+      "text": "Thu Aug 21st 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
