@@ -1,0 +1,182 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 346.199,
+        "digital": "0:05:46",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 46,
+        "percent": 59.9
+      },
+      {
+        "name": "CSS",
+        "total_seconds": 177.478,
+        "digital": "0:02:57",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 57,
+        "percent": 30.71
+      },
+      {
+        "name": "Other",
+        "total_seconds": 54.314,
+        "digital": "0:00:54",
+        "decimal": "0.00",
+        "text": "54 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 9.4
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 9,
+      "total_seconds": 577.991,
+      "digital": "0:09",
+      "decimal": "0.15",
+      "text": "9 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 10,
+      "human_deletions": 10
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 365.775,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 63.28
+      },
+      {
+        "name": "Trae",
+        "total_seconds": 212.216,
+        "digital": "0:03:32",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 32,
+        "percent": 36.72
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 577.991,
+        "digital": "0:09:37",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 37,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 365.775,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 63.28
+      },
+      {
+        "name": "Writing Docs",
+        "total_seconds": 212.216,
+        "digital": "0:03:32",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 32,
+        "percent": 36.72
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 365.775,
+        "machine_name_id": "5e845ea5-239e-492f-8ca9-4c8d0a357f14",
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 63.28
+      },
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 212.216,
+        "machine_name_id": "5009bf8d-9a4d-4d9a-8772-38ba33f13918",
+        "digital": "0:03:32",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 32,
+        "percent": 36.72
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 365.775,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 63.28
+      },
+      {
+        "name": "NaiHeBAWallpaper",
+        "total_seconds": 212.216,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 10,
+        "human_deletions": 10,
+        "digital": "0:03:32",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 32,
+        "percent": 36.72
+      }
+    ],
+    "range": {
+      "start": "2025-08-29T16:00:00Z",
+      "end": "2025-08-30T15:59:59Z",
+      "date": "2025-08-30",
+      "text": "Sat Aug 30th 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
