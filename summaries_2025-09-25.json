@@ -1,0 +1,182 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 1342.72,
+        "digital": "0:22:22",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 22,
+        "percent": 76.65
+      },
+      {
+        "name": "Other",
+        "total_seconds": 407.051,
+        "digital": "0:06:47",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 23.24
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 2.084,
+        "digital": "0:00:02",
+        "decimal": "0.00",
+        "text": "2 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 2,
+        "percent": 0.12
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 29,
+      "total_seconds": 1751.855,
+      "digital": "0:29",
+      "decimal": "0.48",
+      "text": "29 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1344.804,
+        "digital": "0:22:24",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 24,
+        "percent": 76.76
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 407.051,
+        "digital": "0:06:47",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 23.24
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1751.855,
+        "digital": "0:29:11",
+        "decimal": "0.48",
+        "text": "29 mins",
+        "hours": 0,
+        "minutes": 29,
+        "seconds": 11,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1344.804,
+        "digital": "0:22:24",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 24,
+        "percent": 76.76
+      },
+      {
+        "name": "Browsing",
+        "total_seconds": 407.051,
+        "digital": "0:06:47",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 23.24
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 1344.804,
+        "machine_name_id": "5009bf8d-9a4d-4d9a-8772-38ba33f13918",
+        "digital": "0:22:24",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 24,
+        "percent": 76.76
+      },
+      {
+        "name": "Chrome",
+        "total_seconds": 407.051,
+        "machine_name_id": "5e845ea5-239e-492f-8ca9-4c8d0a357f14",
+        "digital": "0:06:47",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 23.24
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 1344.804,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:22:24",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 24,
+        "percent": 76.76
+      },
+      {
+        "name": "Github",
+        "total_seconds": 407.051,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:06:47",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 47,
+        "percent": 23.24
+      }
+    ],
+    "range": {
+      "start": "2025-09-24T16:00:00Z",
+      "end": "2025-09-25T15:59:59Z",
+      "date": "2025-09-25",
+      "text": "Thu Sep 25th 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
