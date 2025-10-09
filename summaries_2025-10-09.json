@@ -1,0 +1,133 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 869.406,
+        "digital": "0:14:29",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 29,
+        "percent": 54.48
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 674.016,
+        "digital": "0:11:14",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 14,
+        "percent": 42.24
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 52.303,
+        "digital": "0:00:52",
+        "decimal": "0.00",
+        "text": "52 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 52,
+        "percent": 3.28
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 26,
+      "total_seconds": 1595.725,
+      "digital": "0:26",
+      "decimal": "0.43",
+      "text": "26 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 1595.725,
+        "digital": "0:26:35",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 35,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1595.725,
+        "digital": "0:26:35",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 35,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 1595.725,
+        "digital": "0:26:35",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 35,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 1595.725,
+        "machine_name_id": "560ff5e3-7f98-4797-a56c-dc94704d6b3c",
+        "digital": "0:26:35",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 35,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 1595.725,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:26:35",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26,
+        "seconds": 35,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-10-08T16:00:00Z",
+      "end": "2025-10-09T15:59:59Z",
+      "date": "2025-10-09",
+      "text": "Thu Oct 9th 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
