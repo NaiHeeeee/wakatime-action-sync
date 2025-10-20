@@ -1,0 +1,227 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Python",
+        "total_seconds": 393.367,
+        "digital": "0:06:33",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 33,
+        "percent": 87.96
+      },
+      {
+        "name": "Brainfuck",
+        "total_seconds": 34.383,
+        "digital": "0:00:34",
+        "decimal": "0.00",
+        "text": "34 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 34,
+        "percent": 7.69
+      },
+      {
+        "name": "Other",
+        "total_seconds": 19.445,
+        "digital": "0:00:19",
+        "decimal": "0.00",
+        "text": "19 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 19,
+        "percent": 4.35
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 7,
+      "total_seconds": 447.195,
+      "digital": "0:07",
+      "decimal": "0.12",
+      "text": "7 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 99,
+      "human_deletions": 10
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 333.539,
+        "digital": "0:05:33",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 33,
+        "percent": 74.58
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 113.656,
+        "digital": "0:01:53",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 25.42
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 447.195,
+        "digital": "0:07:27",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 27,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 333.539,
+        "digital": "0:05:33",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 33,
+        "percent": 74.58
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 113.656,
+        "digital": "0:01:53",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 25.42
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "getch",
+        "total_seconds": 26.931,
+        "digital": "0:00:26",
+        "decimal": "0.00",
+        "text": "26 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 26,
+        "percent": 63.18
+      },
+      {
+        "name": "msvcrt",
+        "total_seconds": 5.231,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 12.27
+      },
+      {
+        "name": "termios",
+        "total_seconds": 5.231,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 12.27
+      },
+      {
+        "name": "tty",
+        "total_seconds": 5.231,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 12.27
+      }
+    ],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 333.539,
+        "machine_name_id": "e295e55c-d282-4a77-a039-42dbbb4839b6",
+        "digital": "0:05:33",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 33,
+        "percent": 74.58
+      },
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 113.656,
+        "machine_name_id": "6005e78d-81e5-45ee-b464-5f69f88961a0",
+        "digital": "0:01:53",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 25.42
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 333.539,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:05:33",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 33,
+        "percent": 74.58
+      },
+      {
+        "name": "brainfuck",
+        "total_seconds": 113.656,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 99,
+        "human_deletions": 10,
+        "digital": "0:01:53",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 53,
+        "percent": 25.42
+      }
+    ],
+    "range": {
+      "start": "2025-10-19T16:00:00Z",
+      "end": "2025-10-20T15:59:59Z",
+      "date": "2025-10-20",
+      "text": "Mon Oct 20th 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
