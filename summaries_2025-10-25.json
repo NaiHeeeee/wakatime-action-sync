@@ -1,0 +1,152 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 6668.37,
+        "digital": "1:51:08",
+        "decimal": "1.85",
+        "text": "1 hr 51 mins",
+        "hours": 1,
+        "minutes": 51,
+        "seconds": 8,
+        "percent": 100.0
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 51,
+      "total_seconds": 6668.37,
+      "digital": "1:51",
+      "decimal": "1.85",
+      "text": "1 hr 51 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 64,
+      "human_deletions": 27
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 5949.775,
+        "digital": "1:39:09",
+        "decimal": "1.65",
+        "text": "1 hr 39 mins",
+        "hours": 1,
+        "minutes": 39,
+        "seconds": 9,
+        "percent": 89.22
+      },
+      {
+        "name": "Trae",
+        "total_seconds": 718.595,
+        "digital": "0:11:58",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 58,
+        "percent": 10.78
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6668.37,
+        "digital": "1:51:08",
+        "decimal": "1.85",
+        "text": "1 hr 51 mins",
+        "hours": 1,
+        "minutes": 51,
+        "seconds": 8,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 6668.37,
+        "digital": "1:51:08",
+        "decimal": "1.85",
+        "text": "1 hr 51 mins",
+        "hours": 1,
+        "minutes": 51,
+        "seconds": 8,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 6668.37,
+        "machine_name_id": "8228868e-6859-4d84-8166-d1ed0d24aa23",
+        "digital": "1:51:08",
+        "decimal": "1.85",
+        "text": "1 hr 51 mins",
+        "hours": 1,
+        "minutes": 51,
+        "seconds": 8,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 4295.992,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 25,
+        "human_deletions": 11,
+        "digital": "1:11:35",
+        "decimal": "1.18",
+        "text": "1 hr 11 mins",
+        "hours": 1,
+        "minutes": 11,
+        "seconds": 35,
+        "percent": 64.42
+      },
+      {
+        "name": "index42",
+        "total_seconds": 1653.783,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 11,
+        "human_deletions": 3,
+        "digital": "0:27:33",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 33,
+        "percent": 24.8
+      },
+      {
+        "name": "index41",
+        "total_seconds": 718.595,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 28,
+        "human_deletions": 13,
+        "digital": "0:11:58",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 58,
+        "percent": 10.78
+      }
+    ],
+    "range": {
+      "start": "2025-10-24T16:00:00Z",
+      "end": "2025-10-25T15:59:59Z",
+      "date": "2025-10-25",
+      "text": "Sat Oct 25th 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
