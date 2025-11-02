@@ -1,0 +1,111 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 852.402,
+        "digital": "0:14:12",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 12,
+        "percent": 100.0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 14,
+      "total_seconds": 852.402,
+      "digital": "0:14",
+      "decimal": "0.23",
+      "text": "14 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 852.402,
+        "digital": "0:14:12",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 12,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 852.402,
+        "digital": "0:14:12",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 12,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 852.402,
+        "digital": "0:14:12",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 12,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-JQJ5BFE",
+        "total_seconds": 852.402,
+        "machine_name_id": "fe467037-64a7-475c-ae5b-aa720f4bdb80",
+        "digital": "0:14:12",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 12,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 852.402,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:14:12",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 12,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-11-01T16:00:00Z",
+      "end": "2025-11-02T15:59:59Z",
+      "date": "2025-11-02",
+      "text": "Sun Nov 2nd 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
