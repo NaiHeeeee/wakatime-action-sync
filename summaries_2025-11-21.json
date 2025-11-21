@@ -1,0 +1,122 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 6.046,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 100.0
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 6.046,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "editors": [
+      {
+        "name": "Chrome",
+        "total_seconds": 6.046,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 6.046,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Browsing",
+        "total_seconds": 6.046,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "Chrome",
+        "total_seconds": 6.046,
+        "machine_name_id": "6c05c1b1-e6ac-4d3e-854b-5ec79d18c03c",
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Github",
+        "total_seconds": 6.046,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-11-20T16:00:00Z",
+      "end": "2025-11-21T15:59:59Z",
+      "date": "2025-11-21",
+      "text": "Fri Nov 21st 2025",
+      "timezone": "Asia/Hong_Kong"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
